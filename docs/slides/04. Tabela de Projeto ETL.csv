@@ -1,0 +1,536 @@
+id_cliente,tipo_cliente,nome_razao_social,cpf_cnpj,email,telefone,cidade,estado,cep,data_nascimento_fundacao,genero,profissao_segmento,renda_mensal_faturamento,data_cadastro
+CLI0447,PF,,198.369.157-37,nao informado,(51)963655557,Recife,PE,16190-343,06/07/1978,M,,44349,07-13-2020
+CLI0291,PF,Fernanda Martins,748.309.309-67,fernandamart43@gmail.com,11956028484,,CE,38061-137,1962-07-12,f,Arquiteto,9597,27.02.2022
+CLI0483,PF,Eduardo Ferreira,96757451048,eduardoferre53@outlook.com,+55 62 98365-6931,Salvador,BA,70468-253,05-13-2002,f,Técnico,21588,2025-02-10
+CLI0321,PJ,Sigma Construtora ME,32.472.505/8333-43,sigmaconstru379@outlook.com,+55 71 98430-7576,Campinas,MG.,93326-443,03/09/2016,,,3168924,2024-01-16
+CLI0511,PF,Juliana Costa,  625.395.011-15  ,julianacosta483@gmail.com,+55 71 93917-4607,Porto Velho,RO,48668-776,,Masculino,Designer,36973,11/01/2022
+CLI0430,PF,viviane hardt,77804579725,nao informado,,Campinas,SP,28129-912,1964-01-01,f,Arquiteto,,20/04/2020
+CLI0051,PF,Débora Pacheco,494.937.597-38,deborapachec470@gmail.com,85920043577,Porto Velho,RO,44208-971,1955-05-17,m,Administrador,17169,05-28-2024
+CLI0052,PF,Isabela Duarte,127.756.185-37,nao informado,(31) 94246-7563,Palmas,TO,35919-761,01-01-2030,Masculino,Vendedor,38052,11/06/2021
+CLI0390,PF,Maria Oliveira,574.496.539-16,mariaoliveir757@gmail.com,(61) 99912-7542,Curitiba,PR,52165-261,12-24-1998,F,,15697,16/10/2023
+CLI0147,PF,LIGIA BERNARDES,601.692.364-58,ligiabernard194@outlook.com,+55 71 99735-7271,Belo Horizonte,MG,,01.01.2030,F,Enfermeiro,27188,2023-11-11
+CLI0305,PF,Mauricio Melo,801.963.045-30,mauriciomelo687@yahoo.com.br,(71)918852650,Porto Alegre,RS,38500-561,23/07/1985,F,Empresário,R$ 29851,14/03/2021
+CLI0189,PF,  Marcelo Azevedo  ,88953690261,marceloazeve981@outlook.com,(61)970259467,Recife,PE,26420-650,28.06.1979,Masculino,Contador,R$ 22631,2024-07-27
+CLI0331,PF,Cintia Nogueira,030.044.964-61,cintianoguei625@hotmail.com,(51)963223875,Belo Horizonte,MG,19499-328,31.03.2002,m,Vendedor,38397,28/02/2024
+CLI0365,PJ,Mu Auto Peças ME,,,(21) 95028-6974,São Paulo,SP,49084-943,07.02.2019,,Agronegócio,3924306,24/10/2020
+CLI0382,PF,  Leticia Xavier  ,739.928.919-82,leticiaxavie981@yahoo.com.br,(62) 91315-2850,Macapá,AP,88487-283,01-01-2030,m,Técnico,45572,24.10.2023
+CLI0289,PF,Marcelo Azevedo,522.299.936-21,marceloazeve21@uol.com.br,51934220993,Belém,PA,67690-171,1960-12-16,Masculino,Arquiteto,34315,2023-09-18
+CLI0115,PF,Vinicius Moreira,  167.567.700-28  ,viniciusmore132@yahoo.com.br,+55 62 92594-8014,Rio de Janeiro,S.P,17398-777,10.02.1985,M,Analista,R$ 25118,08-19-2022
+CLI0101,PF,  Roberto Kramer  ,192.692.124-47,robertokrame453@yahoo.com.br,(21) 92153-5105,Cuiabá,MT,97111-499,01-02-1968,,Vendedor,R$ 37430,12.09.2023
+CLI0424,PF,,98025308437,ligiabernard351@hotmail.com,+55 71 96538-6166,Salvador,BA,86671-129,08-15-1965,M,,R$ 7243,05.08.2025
+CLI0435,PJ,  Rho Sistemas Ltda  ,65667640996833,rhosistemasl691@outlook.com,(61) 94215-8518,Belém,PA,,02-12-1995,,Construção Civil,3175645,24.02.2020
+CLI0099,PF,Rafael Santos,  544.209.494-07  ,rafaelsantos718@hotmail.com,(85)976565050,Curitiba,PR,41188-776,04-11-1951,Masculino,Designer,11904,2021-11-16
+CLI0039,PF,,556.093.204-89,otavioesteve968@gmail.com,(71)939356057,Teresina,,90980-753,06.08.1981,f,Vendedor,37529,02.06.2025
+CLI0260,PJ,tau serviços sa,91.767.993/5937-44,sem email,+55 21 97828-1267,Recife,--,96941-152,13/12/1997,,Logística,,05-24-2022
+CLI0112,PF,Juliana Costa,  711.207.545-27  ,julianacosta45@gmail.com,,Salvador,BA,29078-966,,,,R$ 45239,02-10-2023
+CLI0353,PF,Otavio Esteves,309.091.538-60,otavioesteve579@hotmail.com,61917985583,Porto Velho,RO,46313-657,28/08/1950,f,,47229,25.04.2020
+CLI0298,PF,Felipe Cardoso,96112879429,felipecardos708@uol.com.br,+55 61 98540-7523,Macapá,AP,,30/12/1987,F,Vendedor,44095,05.03.2023
+CLI0466,PF,Ana Lima,218.527.341-14,analima311@yahoo.com.br,71950993688,Guarulhos,SP,22881-244,1989-07-24,,Engenheiro,42412,12-29-2022
+CLI0055,PF,Roberto Kramer,644.220.969-02,robertokrame993@hotmail.com,81983286096,Maceió,AL,19661-918,17/10/1973,Feminino,Contador,R$ 9080,22/04/2023
+CLI0222,PF,Marcelo Azevedo,77980660392,marceloazeve878@gmail.com,(62)922137642,Curitiba,PR,75168-754,29/05/1964,Masculino,Empresário,28300,2024-04-16
+CLI0026,PJ,MU AUTO PEÇAS ME,15.305.152/2047-27,muautopecasm434@gmail.com,,,SC,75513-711,27.05.1998,,,1909043,2025-10-11
+CLI0045,PF,  Alessandra Nunes  ,99125134125,alessandranu419@outlook.com,(81) 99006-3740,Teresina,PI,80465-395,1990-06-18,M,Médico,14787,16.02.2025
+CLI0197,PF,Leticia Xavier,433.187.510-97,leticiaxavie661@outlook.com,62938092671,Palmas,TO,90599-250,03-05-1968,Masculino,Arquiteto,R$ 13686,01/05/2025
+CLI0270,PF,Thiago Leal,,thiagoleal268@hotmail.com,31948545157,Belém,,47876-613,26/04/1952,,Contador,9546,06-22-2020
+CLI0231,PF,Otavio Esteves,06420768362,otavioesteve384@yahoo.com.br,,Vitória,,38465-445,1967-02-18,F,Arquiteto,42558,03.10.2021
+CLI0028,PF,Carlos Souza,775.841.616-92,carlossouza976@gmail.com,+55 62 92101-4866,Florianópolis,SC,84349-133,08.01.1989,Feminino,,43780,01-16-2025
+CLI0443,PF,Fernanda Martins,  342.939.077-37  ,fernandamart143@outlook.com,(41) 94666-9052,Recife,PE,41326-772,06-09-1950,M,Enfermeiro,R$ 38852,04-29-2020
+CLI0124,PJ,Serviços Leste ME,,servicoslest305@yahoo.com.br,(81) 98371-5342,São Luís,MA,89174-365,04/03/2008,,Saúde,R$ 1628472,11.03.2021
+CLI0104,PF,Viviane Hardt,  632.909.279-14  ,vivianehardt292@hotmail.com,61924015162,Rio de Janeiro,MG.,73577-627,19.05.1967,F,Jornalista,R$ 33091,21.08.2022
+CLI0252,PJ,Indústria Sul SA,22398983065031,indústriasul880@outlook.com,31951822022,Fortaleza,CE,91388-153,1998-10-07,,,764842,12-21-2021
+CLI0186,PF,Cristina Pinto,  458.438.458-81  ,,71961350116,Porto Alegre,RS,34173-775,03/02/1971,,Vendedor,R$ 3395,08-02-2020
+CLI0122,PF,Natalia Teixeira,  427.617.075-87  ,nataliateixe697@gmail.com,(62)971771451,Belém,PA,45300-708,2001-03-17,M,Professor,46361,11/09/2023
+CLI0325,PF,henrique oliveira,899.204.573-53,henriqueoliv160@outlook.com,+55 85 99077-8122,São Paulo,SP,72714-305,02/11/1960,f,Jornalista,,2022-12-11
+CLI0071,PJ,Rho Sistemas Ltda,29142834110809,rhosistemasl375@outlook.com,(62)922153955,Cuiabá,MT,11388-778,09.09.2011,,Construção Civil,4658951,2021-11-10
+CLI0493,PF,Cristina Pinto,251.071.555-87,cristinapint354@gmail.com,(41)954718872,Florianópolis,SC,51164-466,1970-11-12,F,Vendedor,6939,11.05.2021
+CLI0464,PJ,Grupo Alfa SA,04.747.338/9147-85,grupoalfasa953@hotmail.com,(41)921017493,Belém,PA,,2005-12-09,,Indústria,122336,14/04/2022
+CLI0154,PF,Pedro Alves,62831435989,pedroalves108@gmail.com,+55 51 96716-5620,Recife,PE,16286-274,03.12.1979,F,Economista,2646,2024-05-14
+CLI0434,PF,Nelson Inocêncio,502.528.546-13,nelsoninocên204@gmail.com,11921132580,Teresina,PI,46524-244,27.05.1960,f,Administrador,10406,03.04.2023
+CLI0160,PF,Vanessa Freitas,,vanessafreit277@gmail.com,+55 41 91022-6692,Porto Alegre,RS,81994-370,07-15-1999,Masculino,Empresário,4561,07-30-2024
+CLI0066,PF,Elisa Lacerda,  978.292.216-99  ,elisalacerda982@hotmail.com,+55 61 98870-7839,Porto Velho,RO,23955,08-31-1999,Feminino,Técnico,46997,13.04.2020
+CLI0159,PJ,Logística Global Ltda,89534396112910,logísticaglo207@uol.com.br,(11)959125302,Natal,RN,25391-546,1992-09-23,,,4685037,12/09/2024
+CLI0100,PF,  Tatiana Borges  ,767.478.366-74,tatianaborge185@yahoo.com.br,(11)923946199,Goiânia,GO,47132-357,05-30-2002,F,Arquiteto,R$ 46032,07/04/2020
+CLI0490,PF,Alexandre Cunha,80424796000,alexandrecun275@gmail.com,61942444023,Belo Horizonte,MG,61904-418,24.06.1973,M,Professor,41295,25.11.2022
+CLI0175,PJ,Rho Sistemas Ltda,41.459.642/2971-25,rhosistemasl288@yahoo.com.br,81945408251,Natal,RN,36986-811,2005-04-09,,Agronegócio,1126541,18/07/2025
+CLI0448,PJ,Kappa Ventures SA,38272105133460,kappaventure178@gmail.com,(41)939831718,Guarulhos,SP,41137-650,27/09/2003,,,2071502,18.12.2020
+CLI0015,PF,juliana costa,  603.859.770-34  ,julianacosta250@outlook.com,+55 71 92143-5526,Natal,RN,76550-373,16.07.1960,F,Designer,35349,03-04-2023
+CLI0148,PF,Felipe Cardoso,  011.686.462-25  ,@invalido,+55 11 99557-1118,João Pessoa,PB,72027-875,1959-10-19,m,Administrador,10171,10-25-2024
+CLI0096,PF,Roberto Kramer,99281615814,robertokrame499@gmail.com,(81) 96330-2599,Porto Velho,RO,99850-933,1989-01-21,m,Arquiteto,45424,04-01-2024
+CLI0494,PF,Henrique Oliveira,  306.162.185-63  ,@invalido,(71) 92573-1820,Teresina,SP ,37148-139,28.04.1991,m,Enfermeiro,,19/05/2024
+CLI0322,PJ,Epsilon Serviços Ltda,09.594.815/2692-55,epsilonservi377@uol.com.br,+55 51 95684-1862,Porto Alegre,RS,86483-300,03.07.1992,,Saúde,,06.10.2021
+CLI0001,PF,Sandro Guerreiro,433.218.196-00,sandroguerre748@outlook.com,(71) 92291-5803,Porto Alegre,RS,47930-181,13/12/1963,m,Engenheiro,8338,17.02.2021
+CLI0010,PJ,Transportes Rápidos Ltda,20.465.375/5646-41,transportesr973@hotmail.com,11926941092,,S.P,43586-885,02.11.2006,,Construção Civil,R$ 3035680,2021-04-14
+CLI0212,PJ,gamma tecnologia me,13348458714939,gammatecnolo670@uol.com.br,+55 51 95974-7075,Teresina,PI,56390-949,2008-05-03,,Agronegócio,R$ 1424923,01-16-2025
+CLI0384,PF,João Silva,728.895.927-41,joaosilva271@yahoo.com.br,(61)980051006,Macapá,AP,48697,1971-07-17,M,Enfermeiro,13483,08-07-2021
+CLI0162,PF,PATRICIA ROCHA,851.327.972-45,patriciaroch113@hotmail.com,(51) 96854-2249,Salvador,BA,89233-254,27.04.1988,,Administrador,46853,12-12-2025
+CLI0279,PF,JORGE OLIVEIRA,507.628.397-62,jorgeoliveir945@outlook.com,,Cuiabá,MT,35594-303,06.12.1986,m,,8033,08/08/2022
+CLI0205,PJ,Omicron Distribuidora ME,46.602.416/1394-49,omicrondistr191@yahoo.com.br,,Florianópolis,SC,,2004-07-24,,Tecnologia,1905306,29.12.2022
+CLI0019,PF,Carlos Souza,  461.200.471-13  ,carlossouza972@outlook.com,,Manaus,AM,82641-312,03-08-1971,F,Enfermeiro,44259,08-12-2022
+CLI0358,PF,ALEXANDRE CUNHA,889.911.416-00,alexandrecun836@uol.com.br,(41) 95080-8119,São Paulo,SP,78601-187,17/05/1957,Feminino,Empresário,R$ 18909,02-21-2024
+CLI0411,PF,Cristina Pinto,51344486722,cristinapint219@gmail.com,(11)942730364,João Pessoa,PB,67074-535,06/10/1967,Masculino,Administrador,40558,06/03/2022
+CLI0375,PJ,Comércio Norte EIRELI,18834581920487,comercionort604@uol.com.br,+55 21 96575-8655,Vitória,ES,46036-158,20.05.2004,,Agronegócio,1763245,09-28-2023
+CLI0166,PF,Leticia Xavier,096.790.422-71,leticiaxavie147@yahoo.com.br,,Salvador,BA,85564-472,10-10-1984,,,11987,2020-10-18
+CLI0187,PF,Adriana Jardim,93059660186,@invalido,,Porto Alegre,RS,14850-467,06-03-1972,Masculino,Técnico,R$ 42340,11.06.2022
+CLI0458,PF,Larissa Mendes,  964.535.917-65  ,larissamende469@gmail.com,(71) 91843-2392,Maceió,S.P,38166-917,23.01.1986,Masculino,Analista,40603,09/01/2025
+CLI0473,PF,Monique Zanetti,02155383077,moniquezanet714@uol.com.br,(62) 99271-2059,Palmas,TO,98812-804,24.03.1950,Masculino,,R$ 33489,01-28-2021
+CLI0453,PF,NATALIA TEIXEIRA,  820.130.716-75  ,nataliateixe712@outlook.com,41930555256,Teresina,PI,52225-895,01-19-1955,M,Técnico,21389,01/11/2023
+CLI0190,PF,  Elaine Domingues  ,  327.021.648-71  ,elainedoming855@outlook.com,(81) 93205-4005,Cuiabá,MT,58480-790,1980-03-15,Feminino,,25262,04-02-2024
+CLI0057,PF,Sandro Guerreiro,586.938.068-68,sandroguerre937@gmail.com,(85)911659440,Goiânia,GO,29613-251,17/04/1967,M,Enfermeiro,43105,14/02/2021
+CLI0455,PF,Camila Gomes,973.670.721-73,camilagomes278@hotmail.com,+55 11 97026-1119,Campo Grande,MS,56011-818,1951-04-18,m,Enfermeiro,R$ 21017,07/01/2021
+CLI0038,PJ,indústria sul sa,63.435.175/1830-46,indústriasul931@gmail.com,+55 41 94350-7498,Goiânia,GO,59894-577,23/01/2011,,Logística,4787977,01-11-2024
+CLI0083,PJ,Rho Sistemas Ltda,82.744.857/0862-09,rhosistemasl565@hotmail.com,,Macapá,AP,27009-282,08-03-2013,,Tecnologia,R$ 4621094,07/04/2022
+CLI0067,PF,Bruno Ribeiro,20438057198,brunoribeiro77@hotmail.com,+55 85 98020-5572,Curitiba,PR,,12-29-1982,f,Técnico,R$ 49507,15.09.2023
+CLI0368,PF,Patricia Rocha,175.438.027-41,patriciaroch490@gmail.com,41983617061,Macapá,,26433-323,08.12.1976,M,Analista,2674,01.11.2024
+CLI0308,PF,Adriana Jardim,545.967.150-06,adrianajardi562@hotmail.com,(31)962132081,Manaus,AM,79200-339,24/01/2003,Feminino,Médico,2985,31/10/2025
+CLI0095,PF,Leticia Xavier,24932149587,leticiaxavie467@yahoo.com.br,(81)958781345,Porto Velho,RO,97186-438,11.11.1997,Feminino,Economista,10637,23.08.2023
+CLI0328,PF,Henrique Oliveira,760.759.889-78,henriqueoliv290@uol.com.br,(51)966487529,Campinas,SP,50525-657,09/03/1961,Feminino,,3541,17.11.2024
+CLI0171,PJ,Lambda Foods Ltda,64.825.311/0609-20,lambdafoodsl549@hotmail.com,(71) 95267-1847,Recife,PE,85937-987,19/03/2006,,Varejo,3104139,23/02/2025
+CLI0341,PF,Gabriel Yazbek,  656.862.959-12  ,gabrielyazbe312@gmail.com,(62)951203973,São Luís,MA,56129-802,31.03.1962,f,Vendedor,33141,10.03.2023
+CLI0357,PF,Renata Correia,907.499.216-40,renatacorrei171@hotmail.com,,São Paulo,SP,12702-118,09.07.1960,M,Analista,30291,2024-03-23
+CLI0012,PJ,Pi Soluções SA,,pisolucõessa290@gmail.com,51934084236,Vitória,ES,17146-666,21/04/1992,,Varejo,4161752,01.06.2021
+CLI0456,PF,CINTIA NOGUEIRA,994.147.539-89,cintianoguei248@outlook.com,+55 71 93838-3750,Cuiabá,MT,80419-492,29.11.1967,,Administrador,R$ 39873,21/10/2022
+CLI0239,PF,MARIA OLIVEIRA,00615727682,mariaoliveir857@gmail.com,(61) 91645-9383,Curitiba,PR,23402-635,02-02-1983,Feminino,Analista,43214,20/08/2022
+CLI0449,PJ,ETA LOGÍSTICA SA,07163485089512,etalogística818@yahoo.com.br,(61)955423511,Belo Horizonte,MG,88648-290,2012-06-22,,Tecnologia,1023830,03/08/2025
+CLI0210,PF,rosana figueiredo,  728.727.601-53  ,rosanafiguei58@outlook.com,,Belo Horizonte,MG,89840-372,1958-11-13,M,Administrador,37045,2021-01-09
+CLI0022,PJ,ZETA INDÚSTRIA ME,90147679764381,zetaindústri57@gmail.com,(41)911037490,,,33028-232,01-17-2004,,Logística,,07-31-2022
+CLI0413,PF,RAFAEL SANTOS,411.420.667-01,rafaelsantos98@uol.com.br,21944363225,Fortaleza,CE,35223-333,1952-10-29,M,Técnico,45570,2024-01-29
+CLI0242,PF,  Patricia Rocha  ,,,,João Pessoa,PB,66687-950,09-22-1952,F,,7642,17/12/2021
+CLI0219,PJ,Tau Serviços SA,71.184.254/7681-82,tauservicoss616@hotmail.com,85981559021,Florianópolis,SC,,25.12.2007,,Educação,R$ 1961072,2022-07-15
+CLI0011,PF,Leticia Xavier,931.491.905-86,leticiaxavie685@outlook.com,+55 81 94475-6813,Maceió,AL,88139-818,02-26-2003,f,Jornalista,R$ 20279,2020-02-11
+CLI0032,PF,Eduardo Ferreira,165.585.239-86,eduardoferre427@uol.com.br,(11)988319168,Macapá,AP,92447-838,07-07-1995,Masculino,Arquiteto,33122,2024-04-06
+CLI0423,PF,Cesar Cavalcanti,  803.789.121-39  ,cesarcavalca821@uol.com.br,71962144567,Fortaleza,CE,45830-480,01-22-1950,Masculino,Analista,5200,26/06/2020
+CLI0388,PF,vinicius moreira,89629805682,viniciusmore494@uol.com.br,71916956478,Belo Horizonte,MG,19604-608,08-09-1950,Masculino,Administrador,9898,03/12/2023
+CLI0309,PF,Vanessa Freitas,596.257.197-60,vanessafreit468@yahoo.com.br,31961686786,Salvador,BA,89764-829,14/04/2001,M,Engenheiro,25672,18.07.2021
+CLI0335,PJ,Epsilon Serviços Ltda,99.945.295/1712-22,epsilonservi116@outlook.com,61935817805,Belém,PA,47997-401,26.02.2002,,Serviços,R$ 3911812,03-16-2020
+CLI0496,PJ,Transportes Rápidos Ltda,60595634318073,transportesr481@outlook.com,(41)984787394,,AM,31087-959,1992-08-01,,Varejo,3003306,02-29-2024
+CLI0412,PJ,Nu Transportes SA,78.621.078/1871-09,nutransporte668@gmail.com,,São Luís,MA,14356-154,06.11.1990,,Agronegócio,2873848,2020-08-10
+CLI0431,PJ,Transportes Rápidos Ltda,,transportesr150@yahoo.com.br,+55 21 91014-2268,Salvador,BA,24381-586,1991-08-09,,Tecnologia,2448237,13/12/2025
+CLI0251,PF,Simone Guimarães,410.346.996-73,simoneguimar173@outlook.com,(61)940990266,Porto Velho,RO,71566-124,09.10.1994,Feminino,Vendedor,R$ 26442,26/09/2022
+CLI0214,PF,Claudio Queiroga,215.573.257-37,claudioqueir78@uol.com.br,(85)987030941,Cuiabá,MT,35020-869,23/03/1989,,Jornalista,37311,10-31-2024
+CLI0204,PF,CRISTINA PINTO,  585.126.861-20  ,cristinapint652@gmail.com,(61) 91599-9704,Maceió,AL,28958-748,10.04.1980,Feminino,Médico,13713,01-30-2023
+CLI0336,PF,Vinicius Moreira,596.851.953-77,viniciusmore670@yahoo.com.br,,Aracaju,SE,87517-425,,M,Engenheiro,R$ 24891,2024-07-05
+CLI0023,PJ,Iota Consultoria ME,13696816453521,iotaconsulto157@gmail.com,,Manaus,,67961-746,,,Tecnologia,R$ 1338912,30/01/2023
+CLI0481,PF,Cristina Pinto,  707.421.531-93  ,cristinapint5@outlook.com,(41)944053876,Aracaju,SE,31354,22.10.1970,M,Empresário,R$ 34996,11-29-2020
+CLI0128,PF,Leandro Farias,666.785.072-08,leandrofaria909@uol.com.br,,Maceió,AL,53842-499,,Masculino,Administrador,42003,05-31-2021
+CLI0068,PF,Sabrina Ramos,  985.158.328-18  ,sabrinaramos816@gmail.com,(85)978281335,Goiânia,GO,,15.01.1981,M,Técnico,17979,05/10/2025
+CLI0078,PJ,,31438663227026,tecnologiaoe49@outlook.com,+55 31 98807-2577,Campo Grande,MS,57226-673,01.11.2015,,Educação,2748512,11-21-2022
+CLI0092,PF,Diego Sampaio,  950.145.561-68  ,diegosampaio747@outlook.com,(31)913219453,João Pessoa,PB,25456-855,07/10/1975,F,Administrador,R$ 42844,25.08.2024
+CLI0156,PF,felipe cardoso,972.832.152-85,felipecardos631@outlook.com,(61) 92755-1084,,S.P,74493-302,05-07-1977,m,Empresário,4321,2025-10-07
+CLI0386,PJ,Indústria Sul SA,42986226992066,indústriasul931@uol.com.br,(31)963662562,Aracaju,SE,69105-725,13.04.2001,,Logística,1584118,11/11/2024
+CLI0476,PF,CARLOS SOUZA,714.697.147-97,carlossouza37@outlook.com,+55 51 98085-3917,Salvador,BA,22827-507,,M,Contador,R$ 4047,01/10/2021
+CLI0079,PF,Fábio Vieira,55877169472,fábiovieira964@gmail.com,(71) 92687-2565,Recife,PE,78679-883,08-01-1982,Masculino,Vendedor,R$ 14051,03-01-2021
+CLI0520,PF,Cesar Cavalcanti,242.853.541-60,cesarcavalca231@outlook.com,+55 62 97214-8422,Belém,RRJ,97777-154,,m,Vendedor,49482,02/10/2020
+CLI0297,PF,Denise Rezende,602.041.813-59,deniserezend905@yahoo.com.br,,Maceió,AL,13367-365,05-02-1956,M,Designer,37068,11.09.2024
+CLI0119,PF,Priscila Macedo,13432756041,priscilamace256@uol.com.br,31970597948,Belo Horizonte,MG,52936-918,06-26-1966,M,,15112,11.12.2020
+CLI0285,PJ,Epsilon Serviços Ltda,79720385934015,epsilonservi178@yahoo.com.br,(41)967210317,Salvador,BA,16002-116,1991-07-31,,Tecnologia,1001965,2022-12-24
+CLI0006,PF,Eduardo Ferreira,12411824493,eduardoferre43@yahoo.com.br,(11)985146293,Fortaleza,CE,30257-342,01-14-1960,m,Designer,4361,26.12.2021
+CLI0507,PF,Rodrigo Castro,91204637216,rodrigocastr355@gmail.com,(31)918642360,João Pessoa,PB,79167,05-26-1970,f,Economista,41429,2024-10-09
+CLI0387,PF,Otavio Esteves,539.839.122-60,otavioesteve606@uol.com.br,+55 61 93218-5863,Natal,RN,95061-254,01-01-2030,F,Técnico,11981,2022-01-18
+CLI0098,PJ,Kappa Ventures SA,87.653.269/0973-84,kappaventure708@gmail.com,(85) 95578-8617,João Pessoa,,92662-859,18.01.2011,,Construção Civil,4865984,11-15-2020
+CLI0044,PF,Sabrina Ramos,45738757177,sabrinaramos399@gmail.com,+55 41 92667-9796,Maceió,AL,69972-216,05-04-1986,f,Enfermeiro,3913,06-27-2025
+CLI0332,PF,Alexandre Cunha,334.742.463-10,nao informado,(85)966656565,Rio de Janeiro,RJ,,01-17-1958,M,Vendedor,R$ 6221,2021-10-15
+CLI0268,PJ,pi soluções sa,55.782.019/0432-23,pisolucõessa33@gmail.com,(41)931349862,Recife,PE,32950,15/06/1997,,Serviços,2574639,17/09/2024
+CLI0087,PJ,Kappa Ventures SA,24.051.477/0538-33,kappaventure62@yahoo.com.br,+55 62 91136-2091,Teresina,RRJ,96520-468,06-20-1994,,Varejo,254254,03-19-2020
+CLI0184,PF,Murilo Queiroz,  661.912.841-17  ,muriloqueiro343@gmail.com,(85) 96400-2021,,,19275-526,31/01/1955,Masculino,Técnico,R$ 19239,26.11.2020
+CLI0137,PF,Leandro Farias,08920388065,leandrofaria976@yahoo.com.br,(71) 94363-7558,Natal,RN,82704-217,10-14-1953,F,Enfermeiro,R$ 17091,2024-12-08
+CLI0499,PF,Ligia Bernardes,224.824.886-31,ligiabernard895@uol.com.br,(21)950771829,Palmas,TO,82379-785,26.11.1960,F,Técnico,R$ 27115,31/03/2023
+CLI0442,PF,PATRICIA ROCHA,  688.658.348-34  ,patriciaroch625@uol.com.br,,São Luís,MA,50055-426,1997-01-21,f,Designer,17971,19/01/2024
+CLI0134,PF,,  956.201.753-70  ,nao informado,21986491124,Macapá,AP,13030-809,14.07.1985,,Empresário,38161,01.11.2022
+CLI0484,PF,Jorge Oliveira,909.846.856-06,sem email,(11)984343016,Maceió,AL,,10.08.1983,f,Professor,R$ 28625,11-18-2021
+CLI0439,PF,Camila Gomes,167.671.877-62,camilagomes405@yahoo.com.br,(85) 99810-1011,Campinas,SP,,09.01.1989,M,,47825,2025-03-19
+CLI0519,PJ,Epsilon Serviços Ltda,98.897.284/2680-92,epsilonservi887@outlook.com,(85) 97950-1545,São Paulo,SP,19734-806,1996-06-22,,Transporte,3268001,02.07.2024
+CLI0111,PF,Viviane Hardt,  158.904.290-25  ,vivianehardt594@yahoo.com.br,+55 11 97111-8944,Guarulhos,SP,31368-204,1964-12-29,F,Jornalista,21731,2025-08-23
+CLI0227,PF,Rafael Santos,35237360507,rafaelsantos806@yahoo.com.br,11935243522,Campinas,SP,49707,03-31-1988,F,,8836,2024-04-25
+CLI0200,PF,Ana Lima,579.197.111-21,analima95@outlook.com,(61)988547299,Porto Velho,RO,84542-315,08-07-1962,Masculino,Jornalista,R$ 15056,11-12-2024
+CLI0324,PF,Diego Sampaio,781.055.800-02,diegosampaio388@uol.com.br,(31)987257533,Manaus,AM,55084-230,1969-07-10,F,Enfermeiro,34399,2023-12-13
+CLI0372,PF,MURILO QUEIROZ,  284.539.749-95  ,muriloqueiro287@yahoo.com.br,11931055735,Recife,PE,31990-350,30/05/1965,F,,26340,2020-06-15
+CLI0132,PF,Alessandra Nunes,12462095200,alessandranu987@uol.com.br,41986268638,São Paulo,SP,,1974-02-28,m,,R$ 3894,2021-11-19
+CLI0364,PJ,Transportes Rápidos Ltda,78.550.113/7535-82,transportesr614@gmail.com,(81) 92834-7807,Fortaleza,CE,71601-954,,,Varejo,R$ 3821526,10.04.2022
+CLI0319,PF,Leticia Xavier,353.028.165-06,leticiaxavie623@gmail.com,,,PA,60737-501,21/01/1952,M,Engenheiro,R$ 46943,2020-11-28
+CLI0089,PF,fábio vieira,18812520566,sem email,(51)933767033,Natal,RN,74217-804,1992-10-04,M,Vendedor,26507,2025-02-17
+CLI0174,PJ,BETA SOLUÇÕES LTDA,17295963904090,betasolucões98@outlook.com,(51) 96196-6665,Cuiabá,--,69582-605,25.06.2004,,,R$ 4575045,05-12-2021
+CLI0082,PF,João Silva,  645.208.814-74  ,joaosilva62@yahoo.com.br,+55 85 94812-6189,,ES,67503-850,1963-11-27,f,Advogado,46954,03-27-2024
+CLI0367,PJ,construtora central sa,23.959.781/5542-60,construtorac379@yahoo.com.br,,Florianópolis,SC,36682-162,24.04.2000,,,2579972,14/03/2025
+CLI0107,PF,Vinicius Moreira,832.538.179-33,viniciusmore920@hotmail.com,21947036407,Belo Horizonte,,64596,11/01/1983,Masculino,Economista,6300,2026-01-26
+CLI0351,PJ,Gamma Tecnologia ME,34281644161019,gammatecnolo39@hotmail.com,85975822380,Guarulhos,SP,37332-532,24.04.2000,,Serviços,2613336,16/09/2025
+CLI0007,PF,Jorge Oliveira,21607337543,jorgeoliveir591@hotmail.com,(71) 91027-9518,Salvador,BA,53279-738,01/01/2030,M,Contador,22557,05-25-2021
+CLI0486,PJ,Lambda Foods Ltda,,lambdafoodsl821@hotmail.com,(62)999460547,Porto Velho,RO,35519,03.01.2004,,Saúde,4456997,18/01/2022
+CLI0362,PF,fernanda martins,903.500.618-48,fernandamart676@yahoo.com.br,(21) 93027-2656,São Paulo,SP,97646,1988-10-30,Feminino,Economista,25390,2024-10-23
+CLI0282,PF,Leticia Xavier,587.146.921-82,leticiaxavie679@uol.com.br,+55 62 93129-5884,Porto Velho,RO,89918-624,14.06.1951,Masculino,,23684,27/09/2020
+CLI0488,PF,DIEGO SAMPAIO,671.485.819-70,diegosampaio590@hotmail.com,+55 62 92689-6630,São Paulo,SP,26369-179,19/11/1963,F,Advogado,48204,14.05.2022
+CLI0339,PF,Denise Rezende,005.328.538-63,deniserezend250@hotmail.com,(85)938788381,Vitória,ES,20918-617,,M,Vendedor,47711,12.04.2021
+CLI0182,PJ,IOTA CONSULTORIA ME,,iotaconsulto804@yahoo.com.br,+55 21 93955-9306,Palmas,TO,52477-702,27.05.2012,,Varejo,4824025,26.11.2023
+CLI0004,PF,bruno ribeiro,473.829.973-76,brunoribeiro993@gmail.com,(41) 93724-7658,Campo Grande,MS,10282-499,1966-06-18,f,,38066,02-06-2025
+CLI0425,PF,thiago leal,295.945.231-58,thiagoleal368@hotmail.com,71973731819,Curitiba,PR,,31/01/1964,f,Médico,28690,2022-08-02
+CLI0250,PF,Carlos Souza,06791766512,carlossouza566@yahoo.com.br,(31) 91376-6189,Vitória,ES,21950-684,1980-04-15,,Administrador,17105,09.01.2023
+CLI0020,PF,LETICIA XAVIER,21020539502,leticiaxavie330@uol.com.br,(31)949580505,Belo Horizonte,MG,66387-201,1952-10-17,Masculino,Analista,9075,2021-04-13
+CLI0161,PF,Camila Gomes,408.916.498-37,camilagomes72@hotmail.com,(41) 98455-7594,Macapá,AP,,03.01.1994,M,,12677,2020-06-28
+CLI0194,PF,Larissa Mendes,29800615581,sem email,,Belém,PA,81001-719,28.03.1953,F,Empresário,R$ 28079,26.01.2021
+CLI0199,PF,Lucas Pereira,40907977278,emailerrado,(71) 92007-2064,João Pessoa,,15833-382,06-03-1967,Masculino,Contador,R$ 22740,01.09.2025
+CLI0253,PF,vinicius moreira,142.817.852-28,viniciusmore44@gmail.com,(31)963018273,Cuiabá,MT,71160-762,11/12/1982,M,Professor,R$ 48544,20.12.2023
+CLI0049,PF,Gabriel Yazbek,52696582710,gabrielyazbe68@yahoo.com.br,(41) 91948-5005,Cuiabá,MT,96252-858,21/10/1977,M,Economista,23413,2020-02-21
+CLI0207,PJ,Rho Sistemas Ltda,86367747226408,rhosistemasl652@gmail.com,31990472677,São Luís,MA,91984-583,03-29-1997,,Varejo,924793,25/02/2024
+CLI0091,PF,Mauricio Melo,,mauriciomelo285@uol.com.br,41929898606,Aracaju,SP ,97424-691,09.04.1994,M,Vendedor,,05-07-2023
+CLI0117,PJ,  Zeta Indústria ME  ,90.835.723/2466-51,zetaindústri197@gmail.com,(51) 98604-8952,,PE,46408,2016-12-26,,Indústria,2251230,21/12/2021
+CLI0379,PF,Otavio Esteves,  538.694.790-25  ,otavioesteve744@yahoo.com.br,(62) 91262-1532,Curitiba,PR,66012-151,16.04.1950,F,Jornalista,22509,08/08/2024
+CLI0323,PJ,Zeta Indústria ME,21.158.718/4523-54,zetaindústri116@outlook.com,(31)939872087,Macapá,AP,27308-691,1992-02-04,,Educação,2279038,19.08.2023
+CLI0300,PF,Simone Guimarães,376.052.304-58,simoneguimar529@hotmail.com,(62) 99818-9955,Florianópolis,SC,70519-953,10/12/1975,M,Analista,6140,01-31-2021
+CLI0361,PF,Sabrina Ramos,60422763460,sabrinaramos4@uol.com.br,(71) 97347-6752,Curitiba,PR,91448-552,10-08-1986,F,Contador,46524,01.08.2024
+CLI0518,PJ,Lambda Foods Ltda,87282063228012,lambdafoodsl278@outlook.com,62996802950,Fortaleza,CE,43694-936,22.01.2014,,Indústria,3615550,12-25-2021
+CLI0106,PF,Eduardo Ferreira,  007.806.867-17  ,eduardoferre73@outlook.com,61949807633,São Paulo,SP,20611-735,08-10-1991,M,Analista,26275,08-12-2020
+CLI0138,PF,Jorge Oliveira,342.583.230-24,jorgeoliveir782@uol.com.br,+55 85 95049-1872,Recife,PE,76619-698,25.09.1961,F,Analista,22837,07/05/2022
+CLI0283,PF,MURILO QUEIROZ,  152.386.767-38  ,nao informado,(41)962365641,Cuiabá,MT,53499-802,23.10.1963,m,Empresário,R$ 34368,05/06/2020
+CLI0126,PF,Claudio Queiroga,695.814.671-79,claudioqueir865@hotmail.com,(51)930980122,Natal,RN,64523-605,04-27-1976,f,Analista,46112,07/05/2022
+CLI0167,PJ,Tecnologia Oeste Ltda,58.955.168/7409-03,tecnologiaoe686@gmail.com,(81)924542266,Campinas,SP,36145-511,20/09/1991,,Indústria,R$ 4882628,07-23-2023
+CLI0444,PF,Juliana Costa,  625.108.573-83  ,julianacosta866@gmail.com,(41) 95054-8246,Natal,,72341-483,26/01/1982,Masculino,Arquiteto,4048,14.11.2021
+CLI0293,PF,  Cintia Nogueira  ,  061.592.738-74  ,cintianoguei293@gmail.com,(21)959468104,Porto Velho,RO,50404-737,1973-06-03,F,Designer,,12-18-2024
+CLI0113,PF,Fernanda Martins,908.334.280-13,fernandamart291@outlook.com,51984345332,Natal,RN,72347-795,24.11.1959,Feminino,Contador,R$ 38512,22.02.2020
+CLI0055,PF,Roberto Kramer,644.220.969-02,robertokrame993@hotmail.com,81983286096,Maceió,AL,19661-918,17/10/1973,Feminino,Contador,R$ 9080,22/04/2023
+CLI0404,PF,Gustavo Araujo,518.178.824-26,gustavoarauj324@yahoo.com.br,+55 85 95596-8635,Rio de Janeiro,--,19253-742,,F,Advogado,16942,19.09.2024
+CLI0246,PJ,Theta Engenharia Ltda,87.274.204/9561-21,thetaengenha887@uol.com.br,(41) 98285-2902,Curitiba,PR,58060-913,,,Construção Civil,R$ 1581693,03-25-2020
+CLI0428,PF,Vinicius Moreira,30003753989,viniciusmore143@gmail.com,+55 51 93681-8011,Manaus,AM,68342-986,1999-09-06,Masculino,Analista,6690,06-21-2022
+CLI0077,PF,alessandra nunes,  333.433.339-52  ,alessandranu703@hotmail.com,(21)938286706,Guarulhos,SP,52655-470,09-26-2001,Masculino,Analista,,2022-11-29
+CLI0394,PF,Anderson Dias,  622.952.179-70  ,nao informado,+55 21 96177-7934,Guarulhos,SP,84983-163,01/01/2030,M,Economista,R$ 25984,01-04-2022
+CLI0116,PF,  Leticia Xavier  ,07698640790,leticiaxavie981@gmail.com,(62)973789440,Recife,PE,20048-767,1956-10-04,m,Administrador,21485,08-29-2025
+CLI0196,PF,Eduardo Ferreira,  875.357.788-11  ,eduardoferre630@yahoo.com.br,+55 31 94349-7082,,RS,37606-438,,f,Engenheiro,21282,2021-07-08
+CLI0238,PF,viviane hardt,93993379705,vivianehardt803@yahoo.com.br,(81) 96147-9786,Natal,,35551-636,,Masculino,Professor,2200,2023-03-02
+CLI0255,PF,Paulo Abreu,00838507659,pauloabreu202@gmail.com,51915622602,Fortaleza,,,04/10/1963,F,Enfermeiro,R$ 49936,13.09.2021
+CLI0009,PJ,omicron distribuidora me,47143455812236,omicrondistr789@uol.com.br,(11)962343121,,MA,81582-919,2008-02-20,,Agronegócio,R$ 4651752,22.06.2022
+CLI0327,PF,Natalia Teixeira,  055.491.215-16  ,nataliateixe888@outlook.com,(21)967713148,Macapá,SP ,84256-762,1966-08-02,f,Economista,18621,28.05.2020
+CLI0354,PF,Ana Lima,517.422.404-32,analima243@outlook.com,,Goiânia,GO,70928-587,1990-04-02,M,Designer,,02/05/2020
+CLI0421,PF,ALESSANDRA NUNES,,alessandranu180@uol.com.br,11973222248,Campo Grande,MS,89429-705,28/07/1986,,Engenheiro,R$ 45227,10/05/2020
+CLI0081,PF,Rafael Santos,,emailerrado,(21) 99899-8702,Palmas,S.P,42631-494,01-01-2030,M,Analista,34662,2024-12-19
+CLI0209,PJ,  Omicron Distribuidora ME  ,57.494.902/2840-35,omicrondistr825@hotmail.com,+55 51 94734-1458,Belém,PA,11581-365,06-23-2012,,Varejo,2656355,14.09.2025
+CLI0245,PJ,Zeta Indústria ME,97990707550476,zetaindústri89@outlook.com,+55 21 92540-8449,Natal,RN,71509-135,08/04/1991,,Logística,4213005,2025-01-22
+CLI0249,PF,Fernanda Martins,39354358644,fernandamart278@uol.com.br,(61)926700614,Campinas,SP,61521-103,1968-06-16,Masculino,Contador,44433,09.11.2022
+CLI0158,PF,Bruno Ribeiro,  392.823.414-36  ,brunoribeiro63@uol.com.br,(11)957113712,Goiânia,GO,16832,,,Analista,R$ 47885,2023-08-10
+CLI0446,PF,Simone Guimarães,342.755.767-29,simoneguimar17@outlook.com,(62) 92879-8662,Cuiabá,MT,38000-977,1957-08-02,Feminino,Jornalista,R$ 40355,01.04.2021
+CLI0389,PF,Maria Oliveira,99919387337,mariaoliveir806@outlook.com,,Vitória,ES,56094-492,,m,,R$ 32830,13/11/2022
+CLI0259,PF,Felipe Cardoso,705.263.510-04,felipecardos40@gmail.com,61910367395,Florianópolis,SC,53583-796,1980-01-06,f,Professor,34463,08-30-2025
+CLI0008,PF,Juliana Costa,  629.946.804-43  ,julianacosta645@uol.com.br,(71)924305904,Maceió,AL,77889-575,02-26-1970,F,Médico,33138,17/10/2022
+CLI0120,PF,Gustavo Araujo,893.173.420-69,gustavoarauj194@outlook.com,+55 31 94858-8388,Belém,PA,94834-569,18/11/1973,F,Advogado,15540,2025-04-04
+CLI0498,PJ,Rho Sistemas Ltda,56771251589041,rhosistemasl871@hotmail.com,(31) 98992-9637,Campo Grande,MS,60019-918,2002-08-23,,Construção Civil,R$ 3562966,12-05-2020
+CLI0016,PJ,Serviços Leste ME,60576627028951,servicoslest801@yahoo.com.br,(71)994127561,Fortaleza,CE,14705-732,26.11.2009,,,1309263,2023-03-23
+CLI0062,PF,PAULO ABREU,  257.532.603-32  ,pauloabreu678@gmail.com,(51) 93247-7862,Cuiabá,--,75239-303,22/05/1960,,Empresário,47997,2022-12-13
+CLI0077,PF,alessandra nunes,  333.433.339-52  ,alessandranu703@hotmail.com,(21)938286706,Guarulhos,SP,52655-470,09-26-2001,Masculino,Analista,,2022-11-29
+CLI0025,PF,Ligia Bernardes,73322141888,ligiabernard289@outlook.com,(71)917003454,Maceió,AL,82684-205,04-11-1990,f,Economista,14715,14/10/2025
+CLI0181,PF,Elisa Lacerda,828.723.244-07,elisalacerda632@gmail.com,11998243507,Maceió,AL,48015-396,05/12/1960,,Advogado,37829,07-12-2025
+CLI0035,PF,Felipe Cardoso,49329668516,felipecardos303@yahoo.com.br,(41)965813853,Cuiabá,MT,97044-945,09/08/1960,,Enfermeiro,48108,10/10/2022
+CLI0103,PF,Fernanda Martins,  903.202.041-79  ,fernandamart169@outlook.com,(62)912097866,Porto Velho,RO,10946-283,02-17-1969,M,,19949,08.03.2023
+CLI0415,PF,Alessandra Nunes,369.524.746-65,alessandranu954@hotmail.com,41983622284,Florianópolis,SC,13425-522,23.05.1980,M,Vendedor,47733,2024-05-29
+CLI0142,PF,leandro farias,874.302.716-93,leandrofaria683@gmail.com,(41) 99085-7738,Cuiabá,MT,52731-519,1966-06-17,m,Arquiteto,R$ 17708,2022-11-01
+CLI0225,PF,Fábio Vieira,  484.539.862-89  ,fábiovieira418@outlook.com,(31)933811694,Macapá,AP,75494-192,1952-08-24,M,Engenheiro,8170,2024-07-02
+CLI0287,PF,  Vanessa Freitas  ,245.393.132-15,vanessafreit973@yahoo.com.br,+55 31 99442-3747,Palmas,TO,19121-638,01-06-1994,m,Arquiteto,16554,09/12/2021
+CLI0422,PF,MARIA OLIVEIRA,511.350.535-72,mariaoliveir893@hotmail.com,+55 85 98692-7717,Belo Horizonte,MG,92419-231,1952-02-17,M,Administrador,R$ 48680,18/12/2021
+CLI0031,PF,sandro guerreiro,62588153714,sandroguerre612@outlook.com,,Rio de Janeiro,RJ,16705-683,1977-09-06,f,Analista,17776,01-24-2024
+CLI0105,PF,TATIANA BORGES,31363631797,tatianaborge976@uol.com.br,(62)939050434,Palmas,TO,46591-114,1959-12-20,M,Advogado,16408,2022-10-07
+CLI0310,PF,Pedro Alves,  045.421.854-57  ,pedroalves942@uol.com.br,51921939929,Curitiba,PR,44316-834,12/09/1980,F,Vendedor,10913,2021-01-04
+CLI0350,PF,Adriana Jardim,243.736.158-73,adrianajardi253@gmail.com,+55 71 98984-4046,Belém,PA,25163-203,1998-11-08,M,Economista,30193,05.10.2022
+CLI0360,PF,JORGE OLIVEIRA,570.041.291-82,jorgeoliveir92@hotmail.com,+55 31 92467-3049,Maceió,AL,59055-111,27/08/1969,f,,10374,24.10.2024
+CLI0185,PF,rodrigo castro,  743.000.389-60  ,rodrigocastr256@gmail.com,31947929390,São Paulo,SP,27002-720,05-15-1971,m,Professor,37141,16/05/2021
+CLI0419,PF,MARCELO AZEVEDO,71171321940,marceloazeve74@hotmail.com,+55 21 92821-7208,São Luís,MA,,09-26-1956,f,Analista,35428,09/03/2023
+CLI0063,PJ,PI SOLUÇÕES SA,14374470120455,pisolucõessa979@uol.com.br,(21)963720675,Guarulhos,SP,60556-806,30.08.2008,,,R$ 1260936,2024-09-23
+CLI0244,PF,Diego Sampaio,361.618.808-19,diegosampaio508@hotmail.com,(51) 94962-7653,Teresina,PI,48769,1959-07-20,m,Advogado,14342,2021-05-10
+CLI0478,PF,Bruno Ribeiro,65826082526,brunoribeiro151@yahoo.com.br,+55 51 95327-5470,Campo Grande,MS,33706-483,1964-12-05,,Analista,9091,07-22-2023
+CLI0344,PF,NELSON INOCÊNCIO,406.221.559-96,nelsoninocên844@hotmail.com,+55 61 93247-5709,Curitiba,PR,31787-818,18.11.1984,f,Economista,41143,18/08/2020
+CLI0202,PF,SIMONE GUIMARÃES,98392250142,simoneguimar484@outlook.com,+55 41 96215-3187,Porto Velho,,98440-847,1999-10-28,F,Vendedor,8547,01/06/2024
+CLI0288,PF,Brenda Peixoto,91060183647,brendapeixot837@outlook.com,(85) 94950-2675,Aracaju,SE,33009-164,1982-08-01,f,Advogado,39435,2022-05-30
+CLI0356,PF,Roberto Kramer,47726903265,robertokrame554@outlook.com,(51)978946993,Curitiba,PR,70766-488,04-29-1953,Feminino,Enfermeiro,37194,02-09-2020
+CLI0240,PJ,Tecnologia Oeste Ltda,14330800370033,tecnologiaoe25@outlook.com,+55 11 94760-9052,Vitória,ES,86229-476,2014-12-14,,Tecnologia,,03.11.2021
+CLI0072,PF,Cristina Pinto,731.453.038-56,cristinapint451@hotmail.com,(85) 95600-4465,Aracaju,RRJ,64344-930,06.10.1983,F,Analista,24612,09.04.2021
+CLI0216,PJ,ETA LOGÍSTICA SA,31.795.563/3185-74,etalogística857@gmail.com,+55 51 97384-8722,Guarulhos,SP,52371-146,29/09/1992,,Agronegócio,R$ 3458029,2022-10-16
+CLI0363,PF,Fernanda Martins,884.968.066-40,fernandamart60@hotmail.com,,Teresina,PI,11730-314,11/05/1997,M,Professor,8585,28/04/2025
+CLI0501,PF,Monique Zanetti,264.106.032-67,moniquezanet534@outlook.com,(51) 97202-9500,Maceió,AL,95148-352,14.11.1964,m,Analista,,12/03/2021
+CLI0007,PF,Jorge Oliveira,21607337543,jorgeoliveir591@hotmail.com,(71) 91027-9518,Salvador,BA,53279-738,01/01/2030,M,Contador,22557,05-25-2021
+CLI0440,PF,Juliana Costa,80501417165,julianacosta186@uol.com.br,85995825795,Aracaju,SE,28519-703,14.07.1953,Masculino,,R$ 49081,20/05/2021
+CLI0271,PF,Nelson Inocêncio,36551584826,nelsoninocên18@uol.com.br,(85) 94027-3060,Aracaju,SE,43136-954,,M,Professor,41459,07/12/2025
+CLI0064,PJ,Zeta Indústria ME,70145089935889,zetaindústri518@outlook.com,(31) 92226-9055,Aracaju,RRJ,82154-758,29/04/1995,,Serviços,3328579,20/08/2022
+CLI0459,PF,Leandro Farias,886.016.744-92,leandrofaria550@uol.com.br,(61) 98302-3037,Natal,RN,99455-979,01.01.2030,F,Arquiteto,13661,18.08.2023
+CLI0479,PF,PAULO ABREU,367.380.520-38,sem email,(85) 98891-7469,Maceió,AL,96691-780,02.06.1973,M,Professor,R$ 5910,2021-03-20
+CLI0065,PF,FERNANDA MARTINS,660.880.199-48,fernandamart842@outlook.com,62926206227,Curitiba,PR,,11.11.1981,,Administrador,R$ 26503,19.05.2021
+CLI0366,PF,Lucas Pereira,431.983.924-84,lucaspereira630@yahoo.com.br,+55 85 96338-1279,Macapá,AP,65130-365,1982-09-21,F,Analista,R$ 28494,28.09.2021
+CLI0149,PJ,Comércio Norte EIRELI,18435797863050,comercionort357@outlook.com,(81) 92645-7305,Aracaju,SE,21415-408,06-30-1999,,Tecnologia,2059231,25.02.2026
+CLI0495,PF,Ligia Bernardes,856.905.096-56,ligiabernard228@gmail.com,+55 62 97082-2691,Vitória,SP ,47231-722,01/05/1967,Masculino,,35801,13.08.2024
+CLI0017,PF,,050.455.623-86,priscilamace468@yahoo.com.br,+55 71 97248-6881,São Luís,MA,48696-122,09-28-1991,M,,R$ 24646,06-09-2024
+CLI0378,PF,Vinicius Moreira,336.109.441-64,viniciusmore336@yahoo.com.br,+55 85 99100-4093,Palmas,TO,15397-272,09-12-1968,M,Advogado,4949,16.06.2022
+CLI0086,PF,Juliana Costa,  048.058.925-83  ,julianacosta201@uol.com.br,(85) 95034-4970,Campinas,SP,64209-533,07-22-1973,M,Economista,R$ 10838,02-19-2022
+CLI0304,PJ,Gamma Tecnologia ME,83.854.540/0644-54,gammatecnolo459@yahoo.com.br,62970498656,Fortaleza,CE,94549-756,07.04.1993,,Serviços,743438,12.11.2021
+CLI0329,PF,JULIANA COSTA,  365.604.500-63  ,julianacosta542@hotmail.com,+55 41 92283-6144,Guarulhos,SP,91364-970,08.02.1984,Feminino,Arquiteto,R$ 32536,05.10.2023
+CLI0223,PF,Rafael Santos,501.394.884-88,rafaelsantos281@gmail.com,+55 41 94538-3381,Fortaleza,CE,12722-978,14.05.1976,F,Contador,R$ 31002,02.12.2024
+CLI0510,PF,NATALIA TEIXEIRA,616.649.700-84,nataliateixe737@hotmail.com,(31) 96429-7102,São Luís,MA,81859-297,,F,Técnico,28735,12-27-2024
+CLI0002,PF,FELIPE CARDOSO,928.327.648-35,felipecardos157@hotmail.com,(71) 92040-7304,Rio de Janeiro,RJ,25014-798,1988-06-08,Masculino,Professor,R$ 11065,12-28-2022
+CLI0213,PF,Otavio Esteves,  403.344.505-66  ,otavioesteve283@uol.com.br,51928023391,Rio de Janeiro,RJ,87307-406,29.12.1984,M,Vendedor,R$ 41761,26.12.2020
+CLI0110,PJ,Beta Soluções Ltda,96106462879232,betasolucões230@gmail.com,+55 31 98742-3034,Campo Grande,MS,74472-804,22.07.2011,,Construção Civil,2633300,26/04/2020
+CLI0070,PF,Camila Gomes,882.100.996-88,camilagomes366@hotmail.com,(41)952652506,Natal,RN,90785-775,29/03/1999,M,Administrador,18429,09-16-2021
+CLI0467,PF,Monique Zanetti,616.691.008-22,moniquezanet143@yahoo.com.br,(31) 98468-1805,Guarulhos,SP,96639-574,1952-09-25,m,Vendedor,R$ 48426,12-30-2022
+CLI0318,PF,sabrina ramos,  893.186.928-97  ,sabrinaramos135@uol.com.br,(21) 97905-6896,Cuiabá,MT,93105-312,1970-07-07,Masculino,Médico,20181,2023-02-08
+CLI0376,PJ,kappa ventures sa,43.551.962/8222-50,kappaventure258@hotmail.com,21942975131,,AM,,16/05/2005,,Agronegócio,2615539,06.09.2024
+CLI0121,PJ,Construtora Central SA,00489646528092,nao informado,+55 81 95635-5312,São Luís,MA,67117-268,06-13-1992,,Tecnologia,1206621,2025-07-05
+CLI0036,PF,rosana figueiredo,258.713.971-87,rosanafiguei788@hotmail.com,71970201634,Belém,,,28/11/1980,,Médico,6523,09.01.2026
+CLI0292,PF,Otavio Esteves,242.114.086-82,otavioesteve795@gmail.com,+55 81 94125-7944,Natal,RN,60773-414,02-10-1950,F,Enfermeiro,24625,2021-06-17
+CLI0232,PF,Denise Rezende,92693265732,deniserezend297@yahoo.com.br,(85)981444791,Goiânia,GO,82393-743,,F,Técnico,40236,2023-02-25
+CLI0396,PF,MONIQUE ZANETTI,964.402.825-32,moniquezanet529@yahoo.com.br,(41) 95864-9104,Vitória,ES,73343-439,01-01-2030,M,Arquiteto,R$ 6276,12-10-2020
+CLI0263,PF,JORGE OLIVEIRA,61851744600,jorgeoliveir592@uol.com.br,(85) 95874-2645,Porto Velho,RO,45264-858,01-27-1957,F,Jornalista,R$ 37475,08/10/2020
+CLI0169,PJ,Delta Comércio SA,10.336.829/6353-39,deltacomerci467@outlook.com,(61)933597329,Porto Velho,RO,33186-666,30/10/2017,,Construção Civil,2675012,01.02.2026
+CLI0143,PJ,BETA SOLUÇÕES LTDA,71183727422091,betasolucões732@gmail.com,+55 85 99566-2684,Guarulhos,SP,59465,2005-02-14,,Agronegócio,R$ 194041,2022-04-06
+CLI0311,PF,BRUNO RIBEIRO,710.580.119-50,brunoribeiro517@uol.com.br,(85)972857546,Cuiabá,MT,85115-318,1988-08-05,,Médico,18805,08-15-2024
+CLI0503,PJ,Kappa Ventures SA,48.723.858/6539-27,kappaventure811@gmail.com,+55 81 98052-1096,Porto Alegre,RS,23273-589,22.08.2007,,Transporte,756332,01.08.2023
+CLI0320,PF,elaine domingues,  670.636.219-86  ,elainedoming992@hotmail.com,(71) 93251-6628,Salvador,BA,77271-751,1977-02-13,m,Vendedor,13071,09.06.2020
+CLI0237,PF,Débora Pacheco,076.248.433-79,deborapachec289@yahoo.com.br,(31)959661702,Aracaju,SE,52755-804,1951-03-01,F,Contador,46830,04.07.2023
+CLI0269,PF,BRENDA PEIXOTO,  298.937.629-74  ,brendapeixot247@gmail.com,(62) 99907-2215,Recife,PE,53525-662,1985-05-27,F,Arquiteto,5462,31/12/2021
+CLI0278,PF,Isabela Duarte,641.869.656-13,isabeladuart7@uol.com.br,,Vitória,ES,97597-297,11-17-1977,F,,R$ 3930,03/10/2023
+CLI0461,PF,CESAR CAVALCANTI,,cesarcavalca730@yahoo.com.br,(61)942215762,Belém,PA,65036-670,10-09-1973,f,Jornalista,19866,04-12-2020
+CLI0465,PF,Tatiana Borges,65815398852,tatianaborge94@uol.com.br,11981520534,Vitória,ES,89521-936,19.12.1980,F,Empresário,8363,05/10/2021
+CLI0416,PF,Roberto Kramer,  153.811.683-71  ,robertokrame305@outlook.com,+55 61 93694-7366,Manaus,AM,36884-935,22.07.1962,M,Professor,10027,21.03.2021
+CLI0220,PJ,Distribuidora Nacional ME,91062272362669,distribuidor968@hotmail.com,(31) 95513-6365,Florianópolis,SC,88439-582,2005-04-25,,Transporte,2417083,11-30-2024
+CLI0315,PF,Murilo Queiroz,855.359.520-56,muriloqueiro584@yahoo.com.br,(61)971535643,Manaus,AM,30601-442,15/12/1953,f,Vendedor,47507,2022-06-11
+CLI0469,PF,Larissa Mendes,360.622.901-13,larissamende604@gmail.com,62941320839,Belém,PA,22186-853,29/09/1996,Masculino,Contador,38707,30/05/2022
+CLI0301,PF,FERNANDA MARTINS,,fernandamart73@outlook.com,+55 11 97469-4393,Porto Velho,S.P,94884-228,15/03/1966,M,Vendedor,18147,11-30-2022
+CLI0074,PJ,IOTA CONSULTORIA ME,62473149864300,iotaconsulto260@yahoo.com.br,(71)984102271,São Luís,MA,83281-668,22/04/2000,,Serviços,R$ 2749975,06-10-2023
+CLI0091,PF,Mauricio Melo,,mauriciomelo285@uol.com.br,41929898606,Aracaju,SP ,97424-691,09.04.1994,M,Vendedor,,05-07-2023
+CLI0139,PF,Denise Rezende,  872.558.777-49  ,deniserezend437@outlook.com,71952549761,Teresina,PI,44815-760,1962-01-19,Masculino,Empresário,,12-03-2020
+CLI0025,PF,Ligia Bernardes,73322141888,ligiabernard289@outlook.com,(71)917003454,Maceió,AL,82684-205,04-11-1990,f,Economista,14715,14/10/2025
+CLI0275,PF,Denise Rezende,998.213.745-56,deniserezend209@yahoo.com.br,+55 62 93523-8465,Rio de Janeiro,RJ,37899-202,28.02.1954,m,Arquiteto,3177,06-14-2022
+CLI0417,PF,Lucas Pereira,694.811.266-49,lucaspereira200@hotmail.com,51999373377,Vitória,ES,,01/01/2030,F,Arquiteto,41428,26/02/2023
+CLI0256,PF,Gustavo Araujo,71372711759,gustavoarauj152@uol.com.br,+55 41 92615-9883,Porto Alegre,RS,62409-529,1979-06-10,m,Arquiteto,5361,10/05/2023
+CLI0397,PJ,Indústria Sul SA,,,+55 61 91566-6489,Belém,PA,75984-915,1995-12-08,,Educação,383282,24/03/2023
+CLI0441,PF,  Adriana Jardim  ,  429.069.522-23  ,adrianajardi26@yahoo.com.br,,Cuiabá,MT,59863-655,1987-12-29,M,Técnico,17677,05-03-2022
+CLI0427,PF,Leandro Farias,53911776665,leandrofaria648@outlook.com,+55 41 98967-3016,Cuiabá,MT,19386-989,23/01/1972,M,Vendedor,R$ 46548,10-17-2025
+CLI0221,PF,Leandro Farias,  417.692.743-81  ,leandrofaria800@outlook.com,(62) 97157-9502,Porto Alegre,RS,94237-200,01-01-2030,Masculino,Vendedor,34438,2021-04-26
+CLI0135,PF,claudio queiroga,  641.877.580-30  ,claudioqueir254@gmail.com,(61)990525899,Goiânia,GO,91965-557,22/08/1955,M,Vendedor,3574,16/12/2020
+CLI0042,PF,VANESSA FREITAS,622.444.721-26,vanessafreit712@hotmail.com,(31)953739710,Goiânia,GO,61502-473,1984-01-31,m,Contador,R$ 44666,2022-03-29
+CLI0093,PF,Priscila Macedo,14488501556,nao informado,(51)986635858,Macapá,AP,25315-985,01-10-1955,m,Arquiteto,R$ 38384,06-16-2023
+CLI0243,PF,Otavio Esteves,  340.433.700-96  ,otavioesteve507@uol.com.br,(71)996632730,Macapá,AP,80675-982,02-10-1981,M,Contador,R$ 24769,06-24-2020
+CLI0130,PJ,Beta Soluções Ltda,96.115.940/8215-45,betasolucões221@hotmail.com,(81)915997180,Belém,PA,50593-679,09-04-2010,,Varejo,,15.10.2023
+CLI0326,PF,Cintia Nogueira,801.944.258-92,cintianoguei235@uol.com.br,21911818925,Natal,RN,17514-620,17.04.1960,F,Enfermeiro,R$ 20073,2024-06-23
+CLI0247,PF,gustavo araujo,57683210219,gustavoarauj831@hotmail.com,41935322457,São Paulo,SP,,,Masculino,,36377,26/01/2026
+CLI0054,PF,fábio vieira,965.223.955-90,fábiovieira940@hotmail.com,+55 85 97481-2655,Fortaleza,CE,30644-849,1968-01-28,,Advogado,,06-18-2025
+CLI0234,PJ,kappa ventures sa,76.604.655/8665-25,kappaventure883@uol.com.br,(11) 93105-2753,Macapá,AP,41056-897,02-21-2016,,Indústria,R$ 3873818,04/11/2020
+CLI0127,PF,Roberto Kramer,561.931.837-45,robertokrame158@yahoo.com.br,(31)942925764,Florianópolis,SC,76194-275,04/08/1960,F,Advogado,48410,05.03.2024
+CLI0299,PJ,Kappa Ventures SA,59364882089348,kappaventure771@uol.com.br,(62) 92116-7961,Natal,RN,24804-700,06.03.1999,,Serviços,3756663,10-13-2022
+CLI0090,PJ,Omicron Distribuidora ME,68.034.764/4726-49,omicrondistr961@uol.com.br,71913343647,Curitiba,PR,21820-356,14/12/2012,,Varejo,3889118,02/11/2021
+CLI0151,PF,Tatiana Borges,095.481.497-37,tatianaborge771@uol.com.br,(11)969308631,Salvador,BA,28982-314,10.02.1985,f,Administrador,14785,12/03/2022
+CLI0451,PF,Rosana Figueiredo,  896.987.036-88  ,rosanafiguei593@gmail.com,(81) 93790-3101,Porto Alegre,RRJ,12676-189,,F,Contador,,02.01.2025
+CLI0198,PJ,Kappa Ventures SA,85819324268774,kappaventure219@uol.com.br,+55 41 91174-4208,,SP,10735-700,14/10/2018,,Tecnologia,3167606,01-20-2021
+CLI0157,PJ,Construtora Central SA,25605313402665,construtorac732@hotmail.com,71927638581,Natal,RN,75536-113,26/12/2002,,Saúde,2329688,26/08/2022
+CLI0229,PJ,serviços leste me,41.163.187/3280-77,servicoslest453@uol.com.br,+55 85 91716-1232,Maceió,AL,42873-279,20/09/1998,,Agronegócio,665395,01/04/2022
+CLI0144,PF,João Silva,122.068.155-83,joaosilva811@uol.com.br,+55 21 96440-3872,Salvador,BA,97342-593,12-25-1974,f,Engenheiro,28941,13.03.2020
+CLI0277,PF,Patricia Rocha,591.408.499-32,patriciaroch622@hotmail.com,(62) 96927-4997,Florianópolis,SC,63408-779,,F,Vendedor,16149,06.08.2021
+CLI0480,PJ,Grupo Alfa SA,80.418.693/0326-45,grupoalfasa624@gmail.com,51996593644,Macapá,AP,96770-217,25.10.2007,,Saúde,798893,19/01/2025
+CLI0487,PF,VIVIANE HARDT,022.017.545-41,vivianehardt753@uol.com.br,41986888624,Vitória,ES,82796-321,29/03/2001,M,,49271,12.02.2020
+CLI0241,PJ,Tau Serviços SA,07.986.321/0613-39,tauservicoss912@yahoo.com.br,(11)937696190,Cuiabá,MT,60930-837,,,Serviços,R$ 2644857,2024-05-19
+CLI0500,PF,,814.051.325-17,lucaspereira336@outlook.com,+55 11 94645-4519,Vitória,ES,92232-694,01.01.2030,f,Economista,27541,21.11.2025
+CLI0033,PJ,Logística Global Ltda,38578652785854,logísticaglo213@outlook.com,+55 61 99899-7220,Vitória,ES,20358,19.03.2015,,Indústria,1986321,19.11.2023
+CLI0073,PF,Gustavo Araujo,299.228.092-02,gustavoarauj395@hotmail.com,(41)933813202,Belo Horizonte,MG,,1966-04-26,M,Advogado,24457,16/12/2025
+CLI0370,PF,NATALIA TEIXEIRA,  691.716.204-29  ,nataliateixe408@yahoo.com.br,(21)970475414,Porto Alegre,RS,12533-321,02.03.1966,M,Técnico,2911,25.11.2020
+CLI0053,PF,ALEXANDRE CUNHA,  670.662.532-44  ,alexandrecun353@uol.com.br,,Campo Grande,MS,71824-642,03-04-1997,F,Empresário,27067,2022-08-11
+CLI0281,PF,LEANDRO FARIAS,798.213.486-29,leandrofaria122@outlook.com,(11) 97597-9134,Macapá,AP,10295-485,,F,Economista,37690,2020-12-11
+CLI0248,PF,Alessandra Nunes,365.346.060-56,alessandranu476@yahoo.com.br,85973070505,Porto Alegre,RS,21925-808,06-10-1987,m,Designer,,03/11/2023
+CLI0450,PF,Larissa Mendes,  395.612.667-83  ,larissamende697@gmail.com,81950022422,São Paulo,,39722-215,1956-03-05,Masculino,Designer,34390,18.12.2025
+CLI0295,PJ,,31.805.339/6274-66,tauservicoss273@outlook.com,(21) 96088-6412,Natal,S.P,73655-782,18.01.1993,,Tecnologia,R$ 4500797,30/10/2022
+CLI0191,PF,  Fernanda Martins  ,  509.889.864-56  ,sem email,85910894575,Manaus,AM,84863-536,1965-03-11,f,Técnico,R$ 17183,2025-11-03
+CLI0280,PF,ALEXANDRE CUNHA,  178.170.321-19  ,sem email,+55 71 94874-8401,Fortaleza,CE,62213-581,11-29-1998,F,Médico,13055,03.08.2021
+CLI0152,PJ,Tau Serviços SA,62630136749261,tauservicoss657@uol.com.br,(62)974987079,Belo Horizonte,MG,26414-201,11.10.2013,,Indústria,R$ 3833922,2026-01-10
+CLI0470,PF,Simone Guimarães,88686562925,simoneguimar821@uol.com.br,(51) 95599-6332,Campinas,SP,93385-305,26/09/1976,Feminino,Vendedor,R$ 43886,05-10-2025
+CLI0515,PF,Fábio Vieira,  999.528.502-31  ,fábiovieira322@yahoo.com.br,(81)925239904,Recife,PE,35501-528,06-24-1961,F,Engenheiro,R$ 42132,12-23-2022
+CLI0373,PF,Rodrigo Castro,,rodrigocastr896@uol.com.br,,Campinas,SP,70265-416,05/03/1974,F,Designer,31119,2023-02-12
+CLI0069,PF,Simone Guimarães,361.386.120-75,simoneguimar515@gmail.com,(51) 92417-5612,Belo Horizonte,MG,79922-325,01.01.2030,m,Engenheiro,,05-20-2024
+CLI0254,PF,Maria Oliveira,195.419.666-45,mariaoliveir945@gmail.com,+55 11 98100-2279,Fortaleza,CE,77182-664,1985-10-26,f,Designer,R$ 10546,17/05/2025
+CLI0432,PF,BRUNO RIBEIRO,404.315.668-51,brunoribeiro39@hotmail.com,(21)923801703,Porto Alegre,SP ,57947-628,08/03/1986,M,Administrador,33919,03.10.2024
+CLI0178,PF,maria oliveira,77584745705,mariaoliveir898@uol.com.br,,Maceió,AL,78167-818,04.01.1958,m,Enfermeiro,19951,18.05.2021
+CLI0345,PF,ISABELA DUARTE,  327.726.488-39  ,isabeladuart265@outlook.com,+55 51 94519-6842,Belém,PA,79327-849,,Feminino,,,26/04/2023
+CLI0406,PF,Marcelo Azevedo,792.372.982-68,marceloazeve175@hotmail.com,61952720394,,SC,78786-589,19.03.1970,m,Contador,2869,06-30-2022
+CLI0215,PF,Bruno Ribeiro,78606940960,brunoribeiro951@hotmail.com,,Goiânia,GO,67624-226,2030-01-01,F,,10344,16/03/2024
+CLI0438,PF,DÉBORA PACHECO,589.290.930-43,deborapachec698@uol.com.br,+55 41 94322-8337,Belo Horizonte,MG.,22407-671,02.01.1973,Masculino,Jornalista,49042,05-26-2021
+CLI0076,PF,Diego Sampaio,43937690426,diegosampaio694@hotmail.com,+55 71 91159-5314,Palmas,TO,98302-866,02.03.1991,F,,9619,2020-11-07
+CLI0080,PF,Vinicius Moreira,  228.200.557-78  ,viniciusmore504@outlook.com,(71)935309568,São Paulo,SP,67292-504,10-25-1982,F,,10932,15.05.2024
+CLI0489,PJ,Omicron Distribuidora ME,25918831249773,omicrondistr351@yahoo.com.br,(81) 99501-9116,Manaus,AM,63228-870,,,Saúde,2263279,2023-06-13
+CLI0005,PF,Natalia Teixeira,430.980.500-97,nataliateixe308@outlook.com,21993370583,Fortaleza,CE,27361-457,2002-05-13,F,Administrador,R$ 48936,09-27-2022
+CLI0273,PF,claudio queiroga,,claudioqueir729@uol.com.br,(81) 93027-9919,Salvador,,35950-604,1997-03-17,Feminino,Arquiteto,R$ 49739,07-16-2024
+CLI0426,PF,ALEXANDRE CUNHA,619.019.333-59,alexandrecun832@hotmail.com,(51)961683321,João Pessoa,PB,80054-886,,Feminino,Arquiteto,41302,19.09.2023
+CLI0334,PF,Tatiana Borges,764.871.775-46,tatianaborge937@uol.com.br,(31) 95053-8953,,PA,23071-233,1978-05-30,F,Técnico,24494,12/07/2020
+CLI0102,PF,BRENDA PEIXOTO,067.198.554-60,brendapeixot316@outlook.com,(81)915746469,Palmas,TO,95701-783,17.04.1989,Feminino,,40859,2026-01-06
+CLI0233,PF,Fernanda Martins,  767.209.579-92  ,fernandamart428@hotmail.com,+55 51 99526-1384,,SE,16817-764,1978-10-09,F,Economista,41505,06-09-2023
+CLI0338,PJ,CONSTRUTORA CENTRAL SA,19623421926221,construtorac289@outlook.com,+55 62 98315-3513,Palmas,TO,79054-198,1990-12-10,,,1468141,2025-10-05
+CLI0027,PF,Roberto Kramer,18888806706,robertokrame908@gmail.com,51982884346,Manaus,RRJ,16265-986,12-06-1992,f,Engenheiro,,24/01/2023
+CLI0398,PF,Diego Sampaio,675.826.762-59,diegosampaio555@yahoo.com.br,+55 62 99291-8000,Florianópolis,SC,11862-987,08-04-2002,Feminino,Professor,47808,2022-04-30
+CLI0341,PF,Gabriel Yazbek,  656.862.959-12  ,gabrielyazbe312@gmail.com,(62)951203973,São Luís,MA,56129-802,31.03.1962,f,Vendedor,33141,10.03.2023
+CLI0257,PF,Natalia Teixeira,  662.670.551-43  ,nataliateixe53@gmail.com,11959226631,Porto Velho,RO,86397,,F,Empresário,8049,03/12/2020
+CLI0061,PF,renata correia,  381.684.602-23  ,renatacorrei39@uol.com.br,61981274148,Natal,RN,55134-419,19.03.1964,M,Engenheiro,30423,04-20-2024
+CLI0015,PF,juliana costa,  603.859.770-34  ,julianacosta250@outlook.com,+55 71 92143-5526,Natal,RN,76550-373,16.07.1960,F,Designer,35349,03-04-2023
+CLI0401,PF,Claudio Queiroga,05166545122,claudioqueir904@uol.com.br,(51) 93521-4476,São Luís,MA,90145,09.12.1970,,,6163,2025-12-30
+CLI0418,PF,Isabela Duarte,  793.014.811-60  ,isabeladuart761@yahoo.com.br,,Porto Alegre,RS,72659-679,28/06/1956,M,Professor,9994,28.01.2021
+CLI0285,PJ,Epsilon Serviços Ltda,79720385934015,epsilonservi178@yahoo.com.br,(41)967210317,Salvador,BA,16002-116,1991-07-31,,Tecnologia,1001965,2022-12-24
+CLI0040,PF,Isabela Duarte,862.118.233-98,isabeladuart942@gmail.com,(62) 98790-5441,Salvador,BA,51220-116,06/11/1950,,Jornalista,23710,13.08.2021
+CLI0502,PJ,  Beta Soluções Ltda  ,11171960049021,betasolucões532@yahoo.com.br,(71) 96610-7128,Recife,PE,40688-468,08-11-2005,,Tecnologia,3647324,06/01/2020
+CLI0114,PJ,Tecnologia Oeste Ltda,36749946579678,tecnologiaoe851@gmail.com,(11) 93934-7269,Fortaleza,S.P,96649-869,04-01-2014,,Transporte,4204893,09.07.2025
+CLI0306,PF,LIGIA BERNARDES,878.848.699-96,ligiabernard852@uol.com.br,(62) 98365-3666,Fortaleza,CE,24775-761,13.01.1958,m,Empresário,R$ 26991,09/08/2025
+CLI0165,PF,Fábio Vieira,  236.903.628-91  ,fábiovieira88@uol.com.br,(62) 98926-1748,Rio de Janeiro,RJ,47015-507,04-27-1975,,Professor,R$ 22258,12.07.2023
+CLI0504,PF,Rosana Figueiredo,46463989701,rosanafiguei803@gmail.com,(11)919450698,Rio de Janeiro,S.P,43806-906,26.04.1961,M,Médico,42706,07/10/2025
+CLI0284,PF,  Eduardo Ferreira  ,42867963259,eduardoferre604@hotmail.com,(41) 96625-9679,Curitiba,,61277-478,24.04.1980,Feminino,Advogado,24501,06-28-2025
+CLI0313,PJ,Indústria Sul SA,09085510740913,indústriasul825@yahoo.com.br,+55 81 93755-1389,São Paulo,SP,51304-937,28/01/2004,,Saúde,3353943,02/01/2023
+CLI0262,PF,BRUNO RIBEIRO,  505.661.863-23  ,brunoribeiro575@gmail.com,+55 81 91532-6194,Salvador,BA,23968,04.06.1983,,,R$ 22654,08-12-2020
+CLI0218,PF,Cristina Pinto,382.231.164-91,emailerrado,(81)938834825,Palmas,TO,81549-550,17.07.1984,M,,,02-18-2023
+CLI0454,PF,Larissa Mendes,76212360186,larissamende678@yahoo.com.br,62928201448,João Pessoa,PB,,11.03.1992,,Arquiteto,,02-09-2022
+CLI0211,PF,Natalia Teixeira,399.771.805-13,nataliateixe505@hotmail.com,81996607967,São Luís,MA,98846-674,17/09/1989,F,Economista,R$ 31901,07/12/2024
+CLI0129,PF,  Rodrigo Castro  ,894.346.810-54,nao informado,(81)964056687,São Luís,MA,86585-610,1996-08-15,M,Empresário,R$ 25676,07.12.2024
+CLI0457,PF,Rosana Figueiredo,424.240.662-83,rosanafiguei967@uol.com.br,+55 85 98368-5407,Campo Grande,MS,12845-691,28/10/1972,m,Economista,R$ 20872,10-30-2021
+CLI0037,PF,ROSANA FIGUEIREDO,  868.633.752-43  ,rosanafiguei613@yahoo.com.br,31965507111,João Pessoa,PB,65994-669,1969-06-29,f,Advogado,20957,11.11.2023
+CLI0383,PF,Jorge Oliveira,884.302.178-16,jorgeoliveir306@gmail.com,(11) 94335-1509,Fortaleza,CE,62705-253,,M,Vendedor,9499,2024-08-25
+CLI0191,PF,  Fernanda Martins  ,  509.889.864-56  ,sem email,85910894575,Manaus,AM,84863-536,1965-03-11,f,Técnico,R$ 17183,2025-11-03
+CLI0266,PF,Aline Barbosa,737.203.763-88,alinebarbosa21@yahoo.com.br,(85) 97876-6591,São Paulo,SP,65685-357,17/11/1999,Masculino,Designer,13989,2023-01-18
+CLI0359,PF,LUCAS PEREIRA,401.535.346-60,lucaspereira458@uol.com.br,+55 51 93305-1551,Cuiabá,MT,19178-608,10/06/1951,M,Empresário,47135,2023-08-23
+CLI0420,PJ,Zeta Indústria ME,41.025.471/7989-94,zetaindústri644@yahoo.com.br,61959072728,Salvador,BA,34147-559,08-14-2001,,Indústria,R$ 1953091,19.12.2020
+CLI0514,PJ,Epsilon Serviços Ltda,79.965.857/8375-68,emailerrado,(21) 98634-8629,Natal,RN,10342-603,12/08/1990,,Indústria,1929394,11.06.2022
+CLI0047,PF,CARLOS SOUZA,77590175186,carlossouza956@yahoo.com.br,+55 61 93711-1848,Belém,PA,40689-539,,,Analista,47127,24/01/2021
+CLI0060,PF,ROSANA FIGUEIREDO,41715454443,rosanafiguei898@uol.com.br,(21) 98713-3096,Curitiba,PR,,13.12.1969,F,Vendedor,46031,09-18-2024
+CLI0050,PF,Gustavo Araujo,524.105.648-14,gustavoarauj732@outlook.com,(41) 97819-6241,Campo Grande,MS,77603-147,07/02/1951,,Analista,13728,09.10.2020
+CLI0056,PF,PATRICIA ROCHA,599.706.296-20,patriciaroch119@yahoo.com.br,+55 81 99914-7349,Belo Horizonte,MG,58418-291,04.06.1976,M,Vendedor,3686,14.12.2022
+CLI0303,PF,ANA LIMA,242.767.746-25,analima904@yahoo.com.br,,Curitiba,PR,24536-268,29.10.2002,M,Arquiteto,38623,12-05-2025
+CLI0378,PF,Vinicius Moreira,336.109.441-64,viniciusmore336@yahoo.com.br,+55 85 99100-4093,Palmas,TO,15397-272,09-12-1968,M,Advogado,4949,16.06.2022
+CLI0491,PF,nelson inocêncio,29335984742,sem email,+55 11 97661-2106,Florianópolis,SC,69193-615,02/09/1964,m,Economista,,08-23-2023
+CLI0075,PF,Elaine Domingues,386.589.026-01,elainedoming716@hotmail.com,+55 11 91004-3579,Aracaju,SE,56285-785,09-22-1965,M,Professor,R$ 35957,31/03/2022
+CLI0163,PF,Marcelo Azevedo,14754102252,marceloazeve547@outlook.com,41987975659,Campo Grande,MS,12248,02-20-1987,f,Advogado,44857,24.01.2024
+CLI0125,PJ,ZETA INDÚSTRIA ME,03037236831472,zetaindústri207@yahoo.com.br,(71)965792417,Maceió,AL,88097-848,20.11.2011,,Varejo,3835161,06/04/2023
+CLI0392,PF,Aline Barbosa,44708231714,emailerrado,(85) 97574-1793,Natal,RN,41287-544,,m,Arquiteto,R$ 37036,28/02/2024
+CLI0192,PJ,Nu Transportes SA,28547815061853,nutransporte156@outlook.com,(81) 95630-3159,Manaus,AM,74315-671,21/09/2011,,Serviços,3255870,30/12/2021
+CLI0505,PF,FÁBIO VIEIRA,846.990.867-23,fábiovieira394@gmail.com,(41)925618711,,PA,65516-618,30/07/1997,F,Médico,7348,27.09.2020
+CLI0094,PF,Priscila Macedo,842.150.317-80,priscilamace592@yahoo.com.br,+55 41 95695-5532,Florianópolis,SC,97965-220,13/12/1953,,Engenheiro,5023,10-07-2021
+CLI0108,PF,Priscila Macedo,856.955.798-87,priscilamace589@hotmail.com,61985495759,Salvador,MG.,80761-266,08-04-1975,M,Arquiteto,R$ 45670,12/05/2021
+CLI0224,PJ,Omicron Distribuidora ME,25389218785193,omicrondistr449@outlook.com,(21)956654498,Rio de Janeiro,RJ,29382-165,12-25-1995,,Educação,1978744,09-24-2020
+CLI0286,PF,LEANDRO FARIAS,  698.198.780-92  ,leandrofaria523@yahoo.com.br,+55 51 97913-6959,Natal,RN,26894-411,10.05.2002,Feminino,Vendedor,R$ 20319,01/05/2021
+CLI0296,PF,Roberto Kramer,,robertokrame179@yahoo.com.br,(41) 99444-5736,Recife,PE,44617-269,09/04/1984,Masculino,Vendedor,5218,25/07/2021
+CLI0517,PJ,Grupo Alfa SA,,grupoalfasa76@uol.com.br,41990029835,Campinas,SP,21146,2012-12-01,,Construção Civil,4089817,2021-10-15
+CLI0290,PF,Rodrigo Castro,  529.883.220-12  ,rodrigocastr398@gmail.com,62971768981,Belém,PA,,23.01.1982,Feminino,Analista,R$ 4650,2021-09-03
+CLI0014,PF,MARIA OLIVEIRA,421.024.994-71,mariaoliveir834@outlook.com,+55 81 96260-2713,João Pessoa,PB,74942-395,03-07-1974,M,Advogado,R$ 44697,28/06/2024
+CLI0170,PF,Nelson Inocêncio,110.961.798-17,emailerrado,+55 11 97134-9502,Palmas,TO,84997-540,01-01-2030,m,Professor,R$ 19538,2024-05-22
+CLI0136,PF,Tatiana Borges,  049.611.080-46  ,tatianaborge522@yahoo.com.br,81942635373,João Pessoa,PB,67127-625,12/06/1979,M,Médico,6426,01-05-2024
+CLI0131,PJ,Lambda Foods Ltda,74.120.948/1813-98,lambdafoodsl282@hotmail.com,(62) 98278-2386,Curitiba,PR,13049-448,18/07/1997,,Saúde,256565,26/08/2024
+CLI0471,PJ,Indústria Sul SA,51199764534965,indústriasul958@gmail.com,(11)924798481,Aracaju,SE,14933-187,04-16-2014,,Agronegócio,1036104,02.09.2023
+CLI0183,PJ,  Logística Global Ltda  ,01759025176298,logísticaglo197@gmail.com,(21) 94334-1544,Teresina,PI,99438-847,2015-01-23,,Saúde,R$ 1991602,03.12.2025
+CLI0346,PJ,Iota Consultoria ME,33.183.611/3389-26,iotaconsulto557@outlook.com,(51) 98123-4013,Palmas,TO,50072-518,29/04/2015,,Educação,,05-21-2022
+CLI0437,PJ,PI SOLUÇÕES SA,60.519.085/4327-16,pisolucõessa730@hotmail.com,,,AM,68113-633,2000-05-06,,Serviços,2786604,01-15-2020
+CLI0377,PF,Juliana Costa,63217400391,julianacosta410@gmail.com,71968509056,Goiânia,GO,52672,09/07/1950,F,Médico,11408,23.07.2022
+CLI0497,PF,isabela duarte,55005490809,isabeladuart315@uol.com.br,+55 11 98170-7762,Goiânia,GO,60788-256,23/04/1975,F,,R$ 3960,2025-07-26
+CLI0088,PJ,Kappa Ventures SA,76.205.554/3840-46,kappaventure695@uol.com.br,+55 41 93502-7987,Campinas,SP,27271-311,06/07/1996,,Serviços,R$ 3395436,2026-01-26
+CLI0206,PF,Gabriel Yazbek,  969.586.780-55  ,gabrielyazbe640@yahoo.com.br,71984684043,Aracaju,SE,26186-199,06/07/1997,Feminino,Contador,,15/05/2022
+CLI0258,PJ,Delta Comércio SA,94.281.793/4065-27,deltacomerci317@yahoo.com.br,(81) 93436-3543,Palmas,TO,68840-229,02.07.1995,,Indústria,3464620,10-27-2020
+CLI0173,PF,Anderson Dias,23767694591,andersondias149@yahoo.com.br,(61) 91178-6388,Macapá,AP,88879-317,14.04.1960,Feminino,Economista,,02-25-2021
+CLI0409,PF,Denise Rezende,344.760.948-37,@invalido,71933339936,São Luís,MA,38859-375,10-17-1966,m,Analista,32125,07/02/2026
+CLI0492,PF,Henrique Oliveira,  979.206.754-93  ,nao informado,,,PE,84718-651,1967-10-11,F,Empresário,16504,2025-02-21
+CLI0030,PF,Natalia Teixeira,680.182.422-53,nataliateixe272@hotmail.com,+55 71 99938-5745,Cuiabá,MT,99783-515,1980-04-16,M,Jornalista,,25/10/2020
+CLI0264,PF,Alessandra Nunes,  814.298.315-22  ,alessandranu877@gmail.com,51925382790,Porto Alegre,RS,93993-694,1984-11-06,M,Contador,40716,2022-10-16
+CLI0018,PJ,tau serviços sa,70952145623285,tauservicoss78@hotmail.com,(41) 97511-6992,,BA,98188-866,05-14-2017,,Saúde,2575825,04-09-2024
+CLI0475,PF,patricia rocha,87225578564,patriciaroch309@outlook.com,+55 85 91725-3545,Natal,RN,25408-895,,M,Economista,40146,2021-11-17
+CLI0302,PF,Alessandra Nunes,,alessandranu249@yahoo.com.br,,Aracaju,RRJ,61968-747,08-14-1952,Feminino,Administrador,16465,2023-11-22
+CLI0140,PF,Cintia Nogueira,150.835.354-44,cintianoguei867@hotmail.com,71970394210,Palmas,TO,11268-611,1968-10-30,F,Economista,32719,12-23-2023
+CLI0141,PF,EDUARDO FERREIRA,90902259999,eduardoferre59@yahoo.com.br,(31)927332564,Teresina,PI,19012-498,01/01/2030,,Designer,R$ 20600,2022-04-25
+CLI0041,PF,,  218.501.631-59  ,julianacosta966@yahoo.com.br,(51)970242778,Salvador,BA,21746-462,05.08.1956,Masculino,Arquiteto,12110,21.08.2023
+CLI0516,PF,Cristina Pinto,270.650.761-22,cristinapint689@yahoo.com.br,(41) 94802-3242,Campo Grande,MS,33323,07-31-1954,Feminino,Arquiteto,2433,27.09.2022
+CLI0265,PJ,Epsilon Serviços Ltda,37.221.556/6847-32,epsilonservi63@gmail.com,+55 85 92809-5705,São Luís,MA,79414,2011-05-23,,Serviços,2397618,24.09.2020
+CLI0201,PF,Vinicius Moreira,834.374.018-27,viniciusmore749@outlook.com,,João Pessoa,PB,,13.02.1982,F,Advogado,30770,07/09/2025
+CLI0371,PF,Rosana Figueiredo,93326724469,rosanafiguei231@hotmail.com,(31) 99081-3952,Recife,PE,39125-456,08/01/1964,Feminino,Técnico,38047,07.05.2023
+CLI0508,PF,Jorge Oliveira,84233008056,jorgeoliveir7@gmail.com,(11)919308637,São Paulo,SP,30993-601,07/08/1989,F,Contador,R$ 21045,2024-10-26
+CLI0153,PF,PAULO ABREU,129.208.751-02,pauloabreu523@hotmail.com,11935242818,Guarulhos,SP,38316-705,08.08.1996,,Empresário,39818,10.06.2021
+CLI0267,PJ,Kappa Ventures SA,73680119236037,sem email,+55 62 98370-4425,Florianópolis,SC,90186-221,15.04.1990,,Transporte,R$ 4701722,2022-10-22
+CLI0186,PF,Cristina Pinto,  458.438.458-81  ,,71961350116,Porto Alegre,RS,34173-775,03/02/1971,,Vendedor,R$ 3395,08-02-2020
+CLI0410,PJ,Delta Comércio SA,,deltacomerci770@hotmail.com,21992186957,Campinas,SP,73696-801,25.07.2014,,Indústria,R$ 3261617,12/12/2022
+CLI0024,PF,Cristina Pinto,  798.079.359-78  ,cristinapint742@uol.com.br,(61) 92335-3317,Campinas,SP,59372-758,,Masculino,Enfermeiro,6319,07/06/2021
+CLI0337,PF,Camila Gomes,066.154.980-85,camilagomes549@outlook.com,+55 51 92797-9697,,MA,17666-498,06/07/1965,F,Administrador,9382,2023-06-05
+CLI0307,PF,,221.010.232-00,joaosilva88@uol.com.br,+55 11 93265-4194,Recife,PE,87162-423,04/06/1984,Masculino,Designer,38243,04/02/2021
+CLI0513,PF,MONIQUE ZANETTI,  033.878.852-85  ,moniquezanet701@yahoo.com.br,51915800202,Porto Alegre,RS,27752-494,13/07/1975,F,Jornalista,R$ 49710,11-07-2023
+CLI0477,PJ,TAU SERVIÇOS SA,60707228834133,tauservicoss318@hotmail.com,(51)974395527,Maceió,,,06-20-2010,,Serviços,R$ 724201,2020-04-01
+CLI0468,PF,Jorge Oliveira,951.452.058-02,jorgeoliveir996@uol.com.br,+55 71 91577-2536,Belo Horizonte,MG,56454-541,10-22-1985,f,,,22.06.2022
+CLI0414,PF,Aline Barbosa,64523428644,alinebarbosa851@hotmail.com,(21) 96482-3909,Curitiba,PR,61129-261,06-26-1992,f,Professor,39542,05/10/2022
+CLI0046,PF,Diego Sampaio,783.613.407-45,diegosampaio769@outlook.com,(51)943226234,Salvador,BA,85684-747,08/02/1965,Masculino,Administrador,35712,23.08.2024
+CLI0452,PF,Brenda Peixoto,  499.799.052-21  ,brendapeixot97@hotmail.com,+55 61 97789-2693,São Luís,MA,38563-599,14/12/1968,,Jornalista,R$ 28632,08/09/2025
+CLI0255,PF,Paulo Abreu,00838507659,pauloabreu202@gmail.com,51915622602,Fortaleza,,,04/10/1963,F,Enfermeiro,R$ 49936,13.09.2021
+CLI0176,PF,Maria Oliveira,72812356798,mariaoliveir442@uol.com.br,81923128198,,CE,62781-280,1992-09-22,M,Administrador,38064,09.12.2025
+CLI0164,PF,juliana costa,72863330212,julianacosta455@gmail.com,(31) 91983-1526,São Luís,MA,65524-796,1987-05-14,M,Arquiteto,R$ 36566,02-03-2025
+CLI0272,PJ,Rho Sistemas Ltda,12694289464203,rhosistemasl474@gmail.com,51957603817,Vitória,,40025-838,04.12.2006,,Tecnologia,R$ 4531878,2023-10-24
+CLI0429,PF,MARCELO AZEVEDO,756.569.764-87,marceloazeve769@outlook.com,81952892856,São Luís,MA,45296-987,2000-11-29,m,Designer,9199,20/06/2021
+CLI0003,PF,ROBERTO KRAMER,814.893.252-88,robertokrame206@yahoo.com.br,(61) 98177-9479,Vitória,ES,87110-667,22.08.1992,M,Empresário,29730,21/06/2022
+CLI0474,PF,Paulo Abreu,859.747.765-65,pauloabreu970@hotmail.com,(21) 96665-4448,Rio de Janeiro,RJ,24390-226,27.07.2000,Feminino,Médico,19408,30.10.2022
+CLI0193,PF,ELAINE DOMINGUES,34776958741,elainedoming791@yahoo.com.br,(61) 97737-7412,São Luís,MA,38697-447,20.11.1993,f,Médico,35258,07-05-2020
+CLI0347,PF,Felipe Cardoso,  734.467.177-62  ,felipecardos18@uol.com.br,+55 61 99852-7710,Natal,RN,32308-766,17.09.2002,,,5160,02-08-2023
+CLI0381,PF,Vinicius Moreira,  718.222.667-94  ,viniciusmore653@yahoo.com.br,(51)945213597,Goiânia,GO,20190-658,06.03.1965,m,Jornalista,R$ 33560,18/12/2024
+CLI0059,PF,Maria Oliveira,705.345.786-10,mariaoliveir699@gmail.com,+55 31 95135-6004,Vitória,ES,59345-972,03-24-1969,M,Enfermeiro,R$ 44702,2022-10-29
+CLI0274,PF,Tatiana Borges,,tatianaborge812@yahoo.com.br,+55 11 92161-3018,Campinas,SP,48304-331,13.06.1975,f,Arquiteto,2201,10.12.2025
+CLI0195,PF,thiago leal,47314976461,thiagoleal174@hotmail.com,,Belo Horizonte,MG,74673-358,28/10/1970,M,Engenheiro,23786,2023-10-15
+CLI0230,PJ,Transportes Rápidos Ltda,01.168.809/2550-21,transportesr37@uol.com.br,(11)941899399,Recife,PE,55239-751,2007-06-05,,,R$ 3350814,19.09.2021
+CLI0312,PF,Tatiana Borges,,tatianaborge258@yahoo.com.br,(85)940581711,Recife,PE,92656-970,1955-06-05,M,Empresário,30132,18/07/2021
+CLI0352,PF,Rafael Santos,969.067.649-09,rafaelsantos853@yahoo.com.br,(11)918724926,Vitória,ES,,01.01.2030,F,Economista,38696,2024-01-11
+CLI0402,PF,Rodrigo Castro,  197.979.724-52  ,rodrigocastr20@yahoo.com.br,+55 85 98081-1017,João Pessoa,PB,95285-992,1994-02-25,m,Médico,34654,2020-06-30
+CLI0395,PF,sabrina ramos,  453.157.905-71  ,sabrinaramos249@outlook.com,21942797531,Vitória,ES,89098-468,26/05/1994,Feminino,Vendedor,2453,2022-09-17
+CLI0294,PF,MURILO QUEIROZ,476.010.801-81,muriloqueiro521@gmail.com,(21) 95038-1882,Maceió,AL,,10/11/1982,F,Médico,9089,02.02.2023
+CLI0506,PF,Felipe Cardoso,252.826.712-69,felipecardos802@hotmail.com,(71)953013368,Salvador,BA,53770-424,04-11-1972,Masculino,Analista,49818,16.08.2020
+CLI0203,PF,Ligia Bernardes,555.809.961-32,ligiabernard884@outlook.com,(11) 93635-6226,Florianópolis,SC,97843-511,02.11.1987,M,Empresário,32469,08-11-2020
+CLI0385,PF,Gustavo Araujo,,gustavoarauj279@uol.com.br,+55 21 95075-9483,Campinas,SP,62437-520,02-06-1957,m,Economista,20244,2022-03-20
+CLI0408,PF,Gabriel Yazbek,731.868.302-91,gabrielyazbe126@yahoo.com.br,(62) 96844-9925,Campinas,SP,67927-103,01-01-2030,F,Professor,27185,2021-10-23
+CLI0217,PF,Jorge Oliveira,59626228225,jorgeoliveir68@gmail.com,(81)951799545,Recife,PE,43667-231,04/03/1954,M,Arquiteto,12365,01-20-2026
+CLI0405,PF,,  378.159.157-90  ,leandrofaria618@gmail.com,(61)986111173,Cuiabá,MT,22883-623,08.07.1951,M,Advogado,R$ 28158,18.04.2020
+CLI0228,PF,Claudio Queiroga,03172351373,claudioqueir963@yahoo.com.br,+55 11 95556-4104,Cuiabá,MT,92121-809,09-19-2003,M,Designer,46590,2025-01-13
+CLI0445,PF,Otavio Esteves,,otavioesteve801@hotmail.com,+55 85 99226-6638,Vitória,ES,17495-248,03-21-1961,M,Analista,46348,19.09.2022
+CLI0118,PF,lucas pereira,  516.231.981-89  ,lucaspereira285@hotmail.com,+55 61 91570-1895,Macapá,,50536-754,,Masculino,Empresário,9403,26/01/2024
+CLI0512,PF,Jorge Oliveira,379.830.457-62,jorgeoliveir470@outlook.com,(21)910943881,Teresina,PI,23871-858,26/05/1968,M,Técnico,,06.10.2022
+CLI0314,PF,Fábio Vieira,026.015.153-25,fábiovieira694@uol.com.br,+55 51 92941-1049,Campinas,SP,14119-999,03.12.2002,Feminino,Designer,,07-05-2020
+CLI0400,PF,,64799846058,adrianajardi519@outlook.com,(61)958113555,Florianópolis,SC,32563-360,16.08.1962,M,,29439,29/01/2023
+CLI0235,PJ,Beta Soluções Ltda,63301658373792,betasolucões203@yahoo.com.br,85920170987,Belo Horizonte,MG,,16.04.2001,,Logística,613939,08-15-2024
+CLI0123,PF,Rosana Figueiredo,045.018.961-64,rosanafiguei434@gmail.com,+55 61 97979-2522,Porto Alegre,RS,98662-329,12.10.1961,Masculino,Contador,34087,27.09.2021
+CLI0097,PF,Brenda Peixoto,278.469.973-35,brendapeixot729@outlook.com,71998917575,,SP,57223-960,03-30-2000,,Jornalista,4043,2023-03-27
+CLI0460,PF,Adriana Jardim,  384.936.806-35  ,adrianajardi50@hotmail.com,+55 71 97921-4532,Campinas,SP,37693-743,16/05/1976,,Contador,48406,08.07.2024
+CLI0462,PF,  Otavio Esteves  ,  534.115.733-09  ,otavioesteve441@gmail.com,(11) 91603-5263,Fortaleza,CE,50326-698,12-04-1979,F,Professor,13815,21.01.2024
+CLI0048,PF,Gabriel Yazbek,16271361115,gabrielyazbe144@hotmail.com,21913600310,São Luís,MA,48737-761,1989-09-09,m,Engenheiro,10071,07.09.2022
+CLI0188,PF,Ligia Bernardes,,ligiabernard850@outlook.com,(71)954961030,Goiânia,GO,,05/01/1954,Feminino,Engenheiro,R$ 9417,19/04/2023
+CLI0436,PF,  Marcelo Azevedo  ,501.016.260-08,marceloazeve728@uol.com.br,(71)922296926,Recife,PE,96166-517,1958-01-03,F,Técnico,R$ 39364,2021-08-22
+CLI0509,PF,,005.108.194-84,carlossouza118@outlook.com,(31)926638686,,TO,65872-726,01-31-1967,,Designer,19999,04-14-2025
+CLI0403,PF,BRUNO RIBEIRO,734.203.197-77,brunoribeiro226@hotmail.com,(71)932246098,Recife,PE,72988-399,1978-09-16,M,Analista,20117,09/05/2022
+CLI0407,PF,MURILO QUEIROZ,141.470.123-50,muriloqueiro26@hotmail.com,71912905672,João Pessoa,PB,72883-323,22.02.1977,M,Contador,21131,2025-09-03
+CLI0372,PF,MURILO QUEIROZ,  284.539.749-95  ,muriloqueiro287@yahoo.com.br,11931055735,Recife,PE,31990-350,30/05/1965,F,,26340,2020-06-15
+CLI0021,PF,Fábio Vieira,65452711116,fábiovieira440@uol.com.br,+55 62 93955-5477,,PB,33777-990,02-01-1969,F,Jornalista,38455,29/06/2024
+CLI0150,PF,FELIPE CARDOSO,602.564.347-12,,41952901755,Campinas,SP,11204-651,1980-07-10,F,Arquiteto,39541,2023-07-18
+CLI0226,PF,RODRIGO CASTRO,908.051.208-00,rodrigocastr958@uol.com.br,21924465305,Maceió,S.P,75228-297,2001-06-30,M,Jornalista,13632,13.10.2023
+CLI0109,PF,Natalia Teixeira,47492975170,nataliateixe967@gmail.com,(61) 97513-3423,Aracaju,SE,56052-415,1957-07-02,Masculino,Enfermeiro,35540,2020-12-24
+CLI0369,PJ,Zeta Indústria ME,27.396.159/7640-53,zetaindústri871@gmail.com,11944852582,Porto Alegre,RS,27070-566,05-13-1993,,Saúde,3987057,08/01/2022
+CLI0399,PF,Roberto Kramer,,robertokrame868@uol.com.br,,Porto Velho,RO,96148-659,1976-12-06,Masculino,Enfermeiro,28063,03/04/2023
+CLI0179,PF,Paulo Abreu,  272.849.824-74  ,pauloabreu751@hotmail.com,(21)943383774,Porto Alegre,RS,22863-367,06-02-1981,M,Empresário,R$ 38749,2023-06-26
+CLI0058,PJ,Tau Serviços SA,96065307450544,tauservicoss329@yahoo.com.br,+55 62 94463-7671,Maceió,,77537-910,01-02-1999,,Transporte,2012245,28.06.2023
+CLI0146,PF,sandro guerreiro,  742.336.293-44  ,sandroguerre475@yahoo.com.br,71954725929,Curitiba,PR,10547-113,21.03.1984,,Designer,41005,12.03.2024
+CLI0208,PF,ROSANA FIGUEIREDO,735.241.039-77,rosanafiguei547@gmail.com,(11)978660380,Aracaju,SE,26260-206,,m,Analista,48922,11/12/2022
+CLI0043,PJ,rho sistemas ltda,,rhosistemasl771@yahoo.com.br,71923234748,Cuiabá,MT,61266-574,17/03/1995,,Tecnologia,471587,2025-08-11
+CLI0145,PF,Débora Pacheco,914.363.910-25,deborapachec821@hotmail.com,,Macapá,AP,35226-153,18/11/1975,m,Arquiteto,R$ 17876,2021-08-02
+CLI0029,PF,Sabrina Ramos,102.786.814-47,sabrinaramos378@outlook.com,(85)974245343,Guarulhos,SP,85353-175,14/08/1965,Masculino,Engenheiro,11101,22/07/2023
+CLI0085,PF,LUCAS PEREIRA,684.577.600-49,lucaspereira741@yahoo.com.br,,Manaus,AM,17329-889,1973-10-10,Feminino,Professor,21680,13.11.2024
+CLI0333,PF,Sandro Guerreiro,569.133.030-33,sandroguerre836@outlook.com,+55 11 91764-3081,Campo Grande,MS,86221-928,01-31-1955,F,,13340,08/03/2020
+CLI0343,PF,Roberto Kramer,  302.750.003-05  ,nao informado,+55 71 94783-5446,Curitiba,PR,43038-234,2001-02-02,Masculino,Designer,3278,26.06.2020
+CLI0133,PJ,Logística Global Ltda,84028914161284,logísticaglo252@yahoo.com.br,(81) 96381-1260,Porto Velho,RO,,20.12.2009,,Tecnologia,2974232,25.06.2025
+CLI0380,PJ,Tecnologia Oeste Ltda,63.681.541/8589-90,tecnologiaoe42@outlook.com,,Teresina,,14784-333,27/09/2009,,Varejo,,12-24-2024
+CLI0391,PF,,562.303.974-40,fábiovieira283@uol.com.br,(11) 96618-3670,Salvador,BA,69614,,F,Professor,11519,2021-10-12
+CLI0316,PF,ALINE BARBOSA,624.178.429-02,alinebarbosa289@yahoo.com.br,81970552007,Aracaju,SE,87803-889,01-01-2030,m,Engenheiro,27728,17.11.2021
+CLI0349,PF,Sandro Guerreiro,59009921779,sandroguerre255@uol.com.br,62928039011,João Pessoa,PB,,26/07/1978,M,Médico,R$ 9965,12-15-2025
+CLI0348,PF,Gabriel Yazbek,  285.759.582-81  ,gabrielyazbe949@hotmail.com,31980245541,Palmas,TO,37514-640,2030-01-01,f,Técnico,19215,14/11/2024
+CLI0340,PF,Lucas Pereira,132.823.392-18,lucaspereira77@uol.com.br,+55 62 98547-9243,Porto Alegre,,64919-693,20.03.1983,m,Enfermeiro,37273,10-08-2022
+CLI0393,PF,MAURICIO MELO,039.091.203-02,mauriciomelo678@yahoo.com.br,+55 51 95683-5612,Natal,RN,21870-227,2030-01-01,M,,32373,09.05.2021
+CLI0155,PJ,Beta Soluções Ltda,05396727578446,betasolucões748@hotmail.com,31948366253,Cuiabá,MT,77503-801,2013-12-20,,Transporte,3510093,20/12/2025
+CLI0355,PF,Marcelo Azevedo,  397.130.722-11  ,marceloazeve417@gmail.com,31949344015,Porto Alegre,RS,62076-115,01-14-1960,Masculino,Advogado,R$ 6482,2022-01-11
+CLI0172,PF,Eduardo Ferreira,  170.617.136-65  ,eduardoferre226@gmail.com,+55 31 94264-2506,Manaus,RRJ,74985-546,21/04/1967,Masculino,Empresário,11984,2024-06-26
+CLI0261,PF,CINTIA NOGUEIRA,615.370.124-24,cintianoguei799@uol.com.br,21921176055,Teresina,PI,34811-658,1955-12-03,M,Administrador,9429,15/03/2020
+CLI0317,PF,Monique Zanetti,,moniquezanet115@uol.com.br,(85)986366538,São Luís,MA,71662-271,18/01/1997,,Designer,2280,20.01.2021
+CLI0463,PJ,Epsilon Serviços Ltda,14477618687047,epsilonservi378@outlook.com,62980699733,,SP,10473-847,08.11.2000,,Agronegócio,R$ 1335316,31.01.2022
+CLI0330,PF,patricia rocha,34414916999,patriciaroch597@yahoo.com.br,31986639255,Vitória,ES,52837,1961-07-06,Feminino,Designer,39723,05-19-2023
+CLI0433,PF,Aline Barbosa,261.705.058-35,alinebarbosa553@yahoo.com.br,(71) 99979-8944,Belo Horizonte,MG,77559-449,10-19-1984,M,Vendedor,47901,2025-03-07
+CLI0179,PF,Paulo Abreu,  272.849.824-74  ,pauloabreu751@hotmail.com,(21)943383774,Porto Alegre,RS,22863-367,06-02-1981,M,Empresário,R$ 38749,2023-06-26
+CLI0342,PF,JORGE OLIVEIRA,673.478.536-98,jorgeoliveir184@yahoo.com.br,51924008928,Rio de Janeiro,SP ,15393-437,25.10.1952,M,,28228,2026-01-24
+CLI0472,PF,rosana figueiredo,92766809846,rosanafiguei497@yahoo.com.br,(71)937677056,Campinas,--,49179-739,07.08.1993,m,Administrador,3033,2021-03-14
+CLI0276,PF,carlos souza,  768.293.844-01  ,carlossouza595@gmail.com,(51)964070291,Guarulhos,SP,85066-927,19.02.1961,Feminino,Vendedor,R$ 3183,29.04.2023
+CLI0148,PF,Felipe Cardoso,  011.686.462-25  ,@invalido,+55 11 99557-1118,João Pessoa,PB,72027-875,1959-10-19,m,Administrador,10171,10-25-2024
+CLI0374,PF,Lucas Pereira,759.192.267-13,lucaspereira323@hotmail.com,,Campo Grande,MS,22332-377,12.03.1988,M,,39426,25/07/2021
+CLI0482,PF,PEDRO ALVES,58979903597,pedroalves395@uol.com.br,(85) 98430-7614,Manaus,AM,39417-417,05-13-1958,,Economista,43588,2025-02-06
+CLI0177,PF,Camila Gomes,094.318.143-96,camilagomes22@hotmail.com,(21) 93797-1159,Natal,RN,42441-583,30/05/1971,f,Advogado,R$ 31833,03-12-2020
+CLI0013,PJ,Beta Soluções Ltda,31.869.993/8677-49,betasolucões84@hotmail.com,(85)989699989,Manaus,AM,40340-395,16.11.1998,,Construção Civil,932431,02/02/2025
+CLI0084,PF,otavio esteves,539.103.717-05,otavioesteve691@outlook.com,71934212413,Cuiabá,MT,88632-553,17/03/1997,m,Advogado,R$ 38578,07-14-2023
+CLI0034,PF,Claudio Queiroga,993.308.330-16,claudioqueir767@yahoo.com.br,(11)996075494,Natal,RN,27589-971,07/05/1953,F,Designer,4381,2023-01-22
+CLI0180,PF,Leandro Farias,26834414978,emailerrado,,Aracaju,SE,95181-209,06.10.1987,M,Designer,17902,02-02-2021
+CLI0236,PF,Marcelo Azevedo,017.509.617-01,marceloazeve921@outlook.com,31913285625,Campinas,SP,11828-544,01.01.2030,F,Vendedor,23257,2021-12-08
+CLI0168,PJ,Zeta Indústria ME,03.064.421/2146-14,zetaindústri305@hotmail.com,(71)957606004,Goiânia,GO,83519-901,,,Indústria,550822,24/03/2022
+CLI0485,PF,JULIANA COSTA,993.446.060-69,julianacosta252@gmail.com,+55 62 93731-6932,Vitória,ES,,01-01-2030,Feminino,Administrador,38417,23.12.2024
