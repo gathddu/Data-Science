@@ -1,3 +1,4 @@
+```
 data-science/
 ├── docs/
 │   ├── slides/
@@ -8,4 +9,5 @@ data-science/
 │   ├── assignments/ 
 │   ├── projects/   
 │   └── experiments/ 
-├── README.md 
+├── README.md
+```
