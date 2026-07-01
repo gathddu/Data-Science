@@ -1,0 +1,23 @@
+2026-07-01 01:15:27,355 - __main__ - INFO - ============================================================
+2026-07-01 01:15:27,355 - __main__ - INFO - STARTING FRAUD DETECTION ETL PIPELINE
+2026-07-01 01:15:27,355 - __main__ - INFO - ============================================================
+2026-07-01 01:15:27,355 - __main__ - INFO - 
+--- EXTRACTION PHASE ---
+2026-07-01 01:15:27,356 - __main__ - INFO - Loading transactions from C:\Users\alex\OneDrive\Documentos\Data-Science\src\projects\fraud-detection\data\raw\train_transaction.csv
+2026-07-01 01:15:44,574 - __main__ - INFO - Loaded 590540 transactions with 394 columns
+2026-07-01 01:15:44,575 - __main__ - INFO - Loading identity data from C:\Users\alex\OneDrive\Documentos\Data-Science\src\projects\fraud-detection\data\raw\train_identity.csv
+2026-07-01 01:15:45,228 - __main__ - INFO - Loaded 144233 identity records with 41 columns
+2026-07-01 01:15:45,233 - __main__ - INFO - 
+--- TRANSFORMATION PHASE ---
+2026-07-01 01:15:45,233 - __main__ - INFO - Merging transaction and identity data
+2026-07-01 01:15:45,394 - __main__ - INFO - Merged data shape: (590540, 434)
+2026-07-01 01:15:45,394 - __main__ - INFO - Handling missing values
+2026-07-01 01:15:47,638 - __main__ - INFO - Dropped 214 columns with >50.0% missing
+2026-07-01 01:15:50,867 - __main__ - INFO - Filled missing values
+2026-07-01 01:15:50,867 - __main__ - INFO - Detecting outliers
+2026-07-01 01:15:53,591 - __main__ - INFO - Detected 34899 outliers
+2026-07-01 01:15:53,591 - __main__ - INFO - 
+--- LOADING PHASE ---
+2026-07-01 01:17:17,924 - __main__ - INFO - Saved processed data to C:\Users\alex\OneDrive\Documentos\Data-Science\src\projects\fraud-detection\data\processed\fraud_detection_processed.csv
+2026-07-01 01:17:17,926 - __main__ - INFO - Saved quality report to C:\Users\alex\OneDrive\Documentos\Data-Science\src\projects\fraud-detection\output\quality_report.json
+2026-07-01 01:17:17,927 - __main__ - INFO - ETL Pipeline completed.

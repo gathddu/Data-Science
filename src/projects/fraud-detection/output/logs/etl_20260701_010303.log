@@ -1,0 +1,46 @@
+2026-07-01 01:03:03,605 - __main__ - INFO - ============================================================
+2026-07-01 01:03:03,605 - __main__ - INFO - STARTING FRAUD DETECTION ETL PIPELINE
+2026-07-01 01:03:03,605 - __main__ - INFO - ============================================================
+2026-07-01 01:03:03,606 - __main__ - INFO - 
+--- EXTRACTION PHASE ---
+2026-07-01 01:03:03,606 - __main__ - INFO - Loading transactions from C:\Users\alex\OneDrive\Documentos\Data-Science\src\projects\fraud-detection\data\raw\train_transaction.csv
+2026-07-01 01:03:16,132 - __main__ - INFO - Loaded 590540 transactions with 394 columns
+2026-07-01 01:03:16,133 - __main__ - INFO - Loading identity data from C:\Users\alex\OneDrive\Documentos\Data-Science\src\projects\fraud-detection\data\raw\train_identity.csv
+2026-07-01 01:03:16,784 - __main__ - INFO - Loaded 144233 identity records with 41 columns
+2026-07-01 01:03:16,789 - __main__ - INFO - 
+--- TRANSFORMATION PHASE ---
+2026-07-01 01:03:16,789 - __main__ - INFO - Merging transaction and identity data
+2026-07-01 01:03:16,961 - __main__ - INFO - Merged data shape: (590540, 434)
+2026-07-01 01:03:16,962 - __main__ - INFO - Handling missing values
+2026-07-01 01:03:19,146 - __main__ - INFO - Dropped 214 columns with >50.0% missing
+2026-07-01 01:03:22,701 - __main__ - INFO - Filled missing values
+2026-07-01 01:03:22,702 - __main__ - INFO - Detecting outliers
+2026-07-01 01:03:26,287 - __main__ - INFO - Detected 9614197 outliers
+2026-07-01 01:03:26,288 - __main__ - INFO - 
+--- LOADING PHASE ---
+2026-07-01 01:04:40,331 - __main__ - INFO - Saved processed data to C:\Users\alex\OneDrive\Documentos\Data-Science\src\projects\fraud-detection\data\processed\fraud_detection_processed.csv
+2026-07-01 01:04:40,332 - __main__ - ERROR - ETL Pipeline failed: Object of type int64 is not JSON serializable
+Traceback (most recent call last):
+  File "C:\Users\alex\OneDrive\Documentos\Data-Science\src\projects\fraud-detection\src\etl_pipeline.py", line 28, in run
+    self.load()
+    ~~~~~~~~~^^
+  File "C:\Users\alex\OneDrive\Documentos\Data-Science\src\projects\fraud-detection\src\etl_pipeline.py", line 130, in load
+    json.dump(self.quality_report, f, indent=2)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\json\__init__.py", line 181, in dump
+    for chunk in iterable:
+                 ^^^^^^^^
+  File "C:\Python314\Lib\json\encoder.py", line 444, in _iterencode
+    yield from _iterencode_dict(o, _current_indent_level)
+  File "C:\Python314\Lib\json\encoder.py", line 413, in _iterencode_dict
+    yield from chunks
+  File "C:\Python314\Lib\json\encoder.py", line 413, in _iterencode_dict
+    yield from chunks
+  File "C:\Python314\Lib\json\encoder.py", line 451, in _iterencode
+    newobj = _default(o)
+  File "C:\Python314\Lib\json\encoder.py", line 182, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type int64 is not JSON serializable
+when serializing dict item 'outliers_detected'
+when serializing dict item 'transformation'

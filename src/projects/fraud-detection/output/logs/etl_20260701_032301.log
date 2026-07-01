@@ -1,0 +1,11 @@
+2026-07-01 03:23:01,139 - visualizations - INFO - ============================================================
+2026-07-01 03:23:01,139 - visualizations - INFO - GENERATING VISUALIZATIONS
+2026-07-01 03:23:01,139 - visualizations - INFO - ============================================================
+2026-07-01 03:23:08,649 - visualizations - INFO - Loaded 590540 records
+2026-07-01 03:23:09,101 - visualizations - INFO - Fraud distribution plot saved
+2026-07-01 03:23:10,534 - visualizations - INFO - Amount analysis plot saved
+2026-07-01 03:23:10,830 - visualizations - INFO - Temporal patterns plot saved
+2026-07-01 03:23:12,224 - visualizations - INFO - Feature importance plot saved
+2026-07-01 03:23:12,497 - visualizations - INFO - Model comparison plot saved
+2026-07-01 03:23:23,019 - visualizations - INFO - Confusion matrices plot saved
+2026-07-01 03:23:23,126 - visualizations - INFO - All visualizations generated

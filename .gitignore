@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # python
 __pycache__/
 *.py[cod]
@@ -58,3 +59,11 @@ output/visualizations/*.png
 output/visualizations/*.jpg
 output/reports/*.json
 output/models/*.pkl
+=======
+# data
+*.csv
+
+__pycache__
+
+*.pkl
+>>>>>>> b0c4e724de60ca16a0aa41b1553e0cf87192f002
