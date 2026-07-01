@@ -1,0 +1,48 @@
+2026-07-01 02:11:54,100 - ml_models - INFO - ============================================================
+2026-07-01 02:11:54,101 - ml_models - INFO - STARTING ML MODEL TRAINING
+2026-07-01 02:11:54,101 - ml_models - INFO - ============================================================
+2026-07-01 02:11:54,101 - ml_models - INFO - 
+--- DATA PREPARATION ---
+2026-07-01 02:12:01,475 - ml_models - INFO - Loaded 590540 records from processed data
+2026-07-01 02:12:01,479 - ml_models - INFO - Encoding 9 categorical columns
+2026-07-01 02:12:08,554 - ml_models - INFO - Train set: 472432 | Test set: 118108
+2026-07-01 02:12:08,556 - ml_models - INFO - Fraud rate (train): 3.50%
+2026-07-01 02:12:08,556 - ml_models - INFO - Fraud rate (test): 3.50%
+2026-07-01 02:12:08,734 - ml_models - INFO - 
+--- MODEL TRAINING ---
+2026-07-01 02:12:08,734 - ml_models - INFO - Training logistic_regression...
+2026-07-01 02:13:28,871 - ml_models - INFO - logistic_regression trained
+2026-07-01 02:13:28,872 - ml_models - INFO - Training random_forest...
+2026-07-01 02:14:14,528 - ml_models - INFO - random_forest trained
+2026-07-01 02:14:14,528 - ml_models - INFO - Training gradient_boosting...
+2026-07-01 02:28:10,216 - ml_models - INFO - gradient_boosting trained
+2026-07-01 02:28:10,216 - ml_models - INFO - 
+--- MODEL EVALUATION ---
+2026-07-01 02:28:10,531 - ml_models - INFO - 
+logistic_regression:
+2026-07-01 02:28:10,531 - ml_models - INFO -   Accuracy:  0.7729
+2026-07-01 02:28:10,531 - ml_models - INFO -   Precision: 0.1071
+2026-07-01 02:28:10,531 - ml_models - INFO -   Recall:    0.7479
+2026-07-01 02:28:10,532 - ml_models - INFO -   F1-Score:  0.1873
+2026-07-01 02:28:10,532 - ml_models - INFO -   ROC-AUC:   0.8387
+2026-07-01 02:28:12,652 - ml_models - INFO - 
+random_forest:
+2026-07-01 02:28:12,652 - ml_models - INFO -   Accuracy:  0.9805
+2026-07-01 02:28:12,653 - ml_models - INFO -   Precision: 0.8303
+2026-07-01 02:28:12,653 - ml_models - INFO -   Recall:    0.5563
+2026-07-01 02:28:12,653 - ml_models - INFO -   F1-Score:  0.6662
+2026-07-01 02:28:12,653 - ml_models - INFO -   ROC-AUC:   0.9378
+2026-07-01 02:28:16,098 - ml_models - INFO - 
+gradient_boosting:
+2026-07-01 02:28:16,098 - ml_models - INFO -   Accuracy:  0.9757
+2026-07-01 02:28:16,098 - ml_models - INFO -   Precision: 0.8784
+2026-07-01 02:28:16,098 - ml_models - INFO -   Recall:    0.3549
+2026-07-01 02:28:16,099 - ml_models - INFO -   F1-Score:  0.5056
+2026-07-01 02:28:16,099 - ml_models - INFO -   ROC-AUC:   0.8929
+2026-07-01 02:28:16,100 - ml_models - INFO - 
+--- SAVING RESULTS ---
+2026-07-01 02:28:16,102 - ml_models - INFO - Saved logistic_regression to C:\Users\alex\OneDrive\Documentos\Data-Science\src\projects\fraud-detection\output\models\logistic_regression.pkl
+2026-07-01 02:28:16,303 - ml_models - INFO - Saved random_forest to C:\Users\alex\OneDrive\Documentos\Data-Science\src\projects\fraud-detection\output\models\random_forest.pkl
+2026-07-01 02:28:16,309 - ml_models - INFO - Saved gradient_boosting to C:\Users\alex\OneDrive\Documentos\Data-Science\src\projects\fraud-detection\output\models\gradient_boosting.pkl
+2026-07-01 02:28:16,311 - ml_models - INFO - Saved results to C:\Users\alex\OneDrive\Documentos\Data-Science\src\projects\fraud-detection\output\reports\model_results.json
+2026-07-01 02:28:16,311 - ml_models - INFO - ML Pipeline completed

@@ -1,0 +1,44 @@
+2026-07-01 01:51:46,613 - ml_models - INFO - ============================================================
+2026-07-01 01:51:46,614 - ml_models - INFO - STARTING ML MODEL TRAINING
+2026-07-01 01:51:46,614 - ml_models - INFO - ============================================================
+2026-07-01 01:51:46,614 - ml_models - INFO - 
+--- DATA PREPARATION ---
+2026-07-01 01:51:54,730 - ml_models - INFO - Loaded 590540 records from processed data
+2026-07-01 01:51:54,766 - ml_models - INFO - Encoding 9 categorical columns
+2026-07-01 01:52:04,300 - ml_models - INFO - Train set: 472432 | Test set: 118108
+2026-07-01 01:52:04,302 - ml_models - INFO - Fraud rate (train): 3.50%
+2026-07-01 01:52:04,303 - ml_models - INFO - Fraud rate (test): 3.50%
+2026-07-01 01:52:04,551 - ml_models - INFO - 
+--- MODEL TRAINING ---
+2026-07-01 01:52:04,551 - ml_models - INFO - Training logistic_regression...
+2026-07-01 01:53:13,558 - ml_models - INFO - logistic_regression trained
+2026-07-01 01:53:13,558 - ml_models - INFO - Training random_forest...
+2026-07-01 01:53:46,983 - ml_models - INFO - random_forest trained
+2026-07-01 01:53:46,984 - ml_models - INFO - Training gradient_boosting...
+2026-07-01 02:06:33,546 - ml_models - INFO - gradient_boosting trained
+2026-07-01 02:06:33,547 - ml_models - INFO - 
+--- MODEL EVALUATION ---
+2026-07-01 02:06:33,852 - ml_models - INFO - 
+logistic_regression:
+2026-07-01 02:06:33,852 - ml_models - INFO -   Accuracy:  0.7729
+2026-07-01 02:06:33,852 - ml_models - INFO -   Precision: 0.1071
+2026-07-01 02:06:33,853 - ml_models - INFO -   Recall:    0.7479
+2026-07-01 02:06:33,853 - ml_models - INFO -   F1-Score:  0.1873
+2026-07-01 02:06:33,853 - ml_models - INFO -   ROC-AUC:   0.8387
+2026-07-01 02:06:35,784 - ml_models - INFO - 
+random_forest:
+2026-07-01 02:06:35,784 - ml_models - INFO -   Accuracy:  0.9805
+2026-07-01 02:06:35,784 - ml_models - INFO -   Precision: 0.8303
+2026-07-01 02:06:35,785 - ml_models - INFO -   Recall:    0.5563
+2026-07-01 02:06:35,785 - ml_models - INFO -   F1-Score:  0.6662
+2026-07-01 02:06:35,785 - ml_models - INFO -   ROC-AUC:   0.9378
+2026-07-01 02:06:39,181 - ml_models - INFO - 
+gradient_boosting:
+2026-07-01 02:06:39,181 - ml_models - INFO -   Accuracy:  0.9757
+2026-07-01 02:06:39,182 - ml_models - INFO -   Precision: 0.8784
+2026-07-01 02:06:39,182 - ml_models - INFO -   Recall:    0.3549
+2026-07-01 02:06:39,182 - ml_models - INFO -   F1-Score:  0.5056
+2026-07-01 02:06:39,182 - ml_models - INFO -   ROC-AUC:   0.8929
+2026-07-01 02:06:39,183 - ml_models - INFO - 
+--- SAVING RESULTS ---
+2026-07-01 02:06:39,403 - ml_models - INFO - ML Pipeline completed

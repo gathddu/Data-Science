@@ -1,0 +1,17 @@
+{
+  "extraction": {
+    "transactions_count": 590540,
+    "identity_count": 144233,
+    "fraud_count": 20663,
+    "fraud_rate": 0.03499000914417313
+  },
+  "transformation": {
+    "initial_missing_values": 115523073,
+    "columns_dropped": 214,
+    "outliers_detected": 34899,
+    "final_shape": [
+      590540,
+      220
+    ]
+  }
+}
